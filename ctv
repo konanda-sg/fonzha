@@ -1,5 +1,6 @@
 #EXTINF:-1 group-title="LIGA INGGRIS",--21 DES 25--
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev1.m3u8
+
 #EXTINF:-1 group-title="LIGA INGGRIS",DAZN 1 PT DIRECTO
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev1.m3u8
 
@@ -21,12 +22,76 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev6.m3u8
 #EXTINF:-1 group-title="LIGA INGGRIS",DAZN 7 PT DIRECTO
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev7.m3u8
 
+-----TR----
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/zG6gC8bd-eDAwkyAwUul8l5Lp08=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg" group-title="TRANSMEDIA",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/QO-DpTu2gA_uD5dPjT567NmpbQI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="TRANSMEDIA",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
+
+#EXTINF:-1 group-title="TRANSMEDIA" tvg-logo="https://thumbor.prod.vidiocdn.com/zG6gC8bd-eDAwkyAwUul8l5Lp08=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=dash
+
+#EXTINF:-1 group-title="TRANSMEDIA" tvg-logo="https://thumbor.prod.vidiocdn.com/QO-DpTu2gA_uD5dPjT567NmpbQI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zG6gC8bd-eDAwkyAwUul8l5Lp08=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg" group-title="TRANSMEDIA",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=drm 
+https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QO-DpTu2gA_uD5dPjT567NmpbQI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="TRANSMEDIA",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=drm 
+https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zG6gC8bd-eDAwkyAwUul8l5Lp08=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg" group-title="TRANSMEDIA",TRANS TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QO-DpTu2gA_uD5dPjT567NmpbQI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="TRANSMEDIA",TRANS 7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TRANS",TRANS TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TRANS",TRANS TV a
 https://nextgenz.my.id/event/pidio/play.m3u8?id=733&type=hls
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TRANS",TRANS TV2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TRANS",TRANS TV b
 https://nextgenz.my.id/event/pidio/index.m3u8?id=733&type=hls
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -37,19 +102,7 @@ https://nextgenz.my.id/event/pidio/play.m3u8?id=734&type=hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TRANS",TRANS 7-2
 https://nextgenz.my.id/event/pidio/index.m3u8?id=734&type=hls
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TRANS",TRANS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=dash
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TRANS",TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TRANS",TRANS TV2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TRANS",TRANS TV c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=733&type=drm
@@ -61,14 +114,164 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=733&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=734&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=734&type=dash
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1",CTV 1
+#EXTINF:-1 group-title="TRANS" tvg-logo="",TRANS2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=733&type=drm
+https://nextgenz.my.id/event/pidio/index.mpd?id=733&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="TRANS",TRANS4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=733&type=drm 
+https://nextgenz.my.id/event/pidio/index.mpd?id=733&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="TRANS",TRANS6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=733&type=drm
+https://nextgenz.my.id/event/pidio/index.mpd?id=733&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="TRANS",TRANS7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=733&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=733&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="TRANS",TRANS8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=733&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=733&type=dash
+
+#EXTINF:-1 group-title="TRANS" tvg-logo="",TRANS9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=733&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=733&type=dash
+
+#EXTINF:-1 group-title="TRANS" tvg-logo="",TRANS10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=733&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=733&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="TRANS",TRANS11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=733&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=733&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="TRANS",TRANS12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=733&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=733&type=dash
+
+#EXTINF:-1 group-title="TRANSMED" tvg-logo="",TRANS2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=734&type=drm
+https://nextgenz.my.id/event/pidio/index.mpd?id=734&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="TRANSMED",TRANS4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=734&type=drm 
+https://nextgenz.my.id/event/pidio/index.mpd?id=734&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="TRANSMED",TRANS6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=734&type=drm
+https://nextgenz.my.id/event/pidio/index.mpd?id=734&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="TRANSMED",TRANS7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=734&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=734&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="TRANSMED",TRANS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=734&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=734&type=dash
+
+#EXTINF:-1 group-title="TRANSMED" tvg-logo="",TRANS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=734&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=734&type=dash
+
+#EXTINF:-1 group-title="TRANSMED" tvg-logo="",TRANS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=734&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=734&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="TRANSMED",TRANS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=734&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=734&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="TRANSMED",TRANS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=734&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=734&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EL|1",CTV 1
 https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/main/ChampionTV1.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1",CTV 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EL|1",CTV 2
 https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/main/ChampionTV2.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="EL|1",CTV 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EL|1",CTV 3
 https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/main/ChampionTV3.m3u8
 
-#EXTINF:-1 group-title="CH | CTV" tvg-logo=" ",CTV 1
+#EXTINF:-1 group-title="NG | CTV" tvg-logo="",CTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -76,7 +279,7 @@ https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=dash
 
-#EXTINF:-1 group-title="CH | CTV" tvg-logo=" ",CTV 2
+#EXTINF:-1 group-title="NG | CTV" tvg-logo="",CTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -84,7 +287,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6686&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=6686&type=dash
 
-#EXTINF:-1 group-title="CH | CTV" tvg-logo=" ",CTV 3
+#EXTINF:-1 group-title="NG | CTV" tvg-logo="",CTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -92,7 +295,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6786&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="CH | CTV" tvg-logo=" ",CTV 1 Alt
+#EXTINF:-1 group-title="NG | CTV" tvg-logo="",CTV 1 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -100,7 +303,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17938&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 group-title="CH | CTV" tvg-logo=" ",CTV 2 Alt
+#EXTINF:-1 group-title="NG | CTV" tvg-logo="",CTV 2 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -108,7 +311,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17939&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17939&type=dash
 
-#EXTINF:-1 group-title="CH | CTV" tvg-logo=" ",CTV 3 Alt
+#EXTINF:-1 group-title="NG | CTV" tvg-logo="",CTV 3 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -116,7 +319,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17939&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=dash
 
-#EXTINF:-1 group-title="CH | CTV" tvg-logo=" ",CTV 5
+#EXTINF:-1 group-title="NG | CTV" tvg-logo="",CTV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -124,7 +327,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 group-title="CH | CTV" tvg-logo=" ",CTV 6
+#EXTINF:-1 group-title="NG | CTV" tvg-logo="",CTV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -132,7 +335,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 group-title="CH | CTV" tvg-logo=" ",PL TV
+#EXTINF:-1 group-title="NG | CTV" tvg-logo="",PL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -140,7 +343,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=9353&type=dash
 
-#EXTINF:-1 group-title="CH | CTV" tvg-logo=" ",SPOTV 1
+#EXTINF:-1 group-title="NG | CTV" tvg-logo="",SPOTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -148,7 +351,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17139&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17139&type=dash
 
-#EXTINF:-1 group-title="CH | CTV" tvg-logo=" ",SPOTV 2
+#EXTINF:-1 group-title="NG | CTV" tvg-logo="",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -156,7 +359,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17140&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17140&type=dash
 
-#EXTINF:-1 group-title="CH | CTV" tvg-logo=" ",BEINS
+#EXTINF:-1 group-title="NG | CTV" tvg-logo="",BEINS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -164,7 +367,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17140&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6299&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=6299&type=dash
 
-#EXTINF:-1 group-title="CH | CTV" tvg-logo=" ",BEIN 1
+#EXTINF:-1 group-title="NG | CTV" tvg-logo="",BEIN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -172,7 +375,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17884&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17884&type=dash
 
-#EXTINF:-1 group-title="CH | CTV" tvg-logo=" ",BEIN 2
+#EXTINF:-1 group-title="NG | CTV" tvg-logo="",BEIN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -180,7 +383,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17884&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17875&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17875&type=dash
 
-#EXTINF:-1 group-title="CH | CTV" tvg-logo=" ",BEIN 3
+#EXTINF:-1 group-title="NG | CTV" tvg-logo="",BEIN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -188,175 +391,175 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6317&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=6317&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV2",CTV 1
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV2",CTV 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV2",CTV 2
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV2",CTV 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6686&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=6686&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV2",CTV 3
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV2",CTV 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6786&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV2",CTV 1 Alt
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV2",CTV 1 Alt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17938&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV2",CTV 2 Alt
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV2",CTV 2 Alt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17939&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17939&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV2",CTV 3 Alt
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV2",CTV 3 Alt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV2",CTV 5
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV2",CTV 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV2",CTV 6
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV2",CTV 6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV2",SPOTV
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV2",SPOTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17139&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17139&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV2",SPOTV 2
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV2",SPOTV 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17140&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17140&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV2",BEINS
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV2",BEINS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6299&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=6299&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV2",BEIN 1
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV2",BEIN 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17884&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17884&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV2",BEIN 2
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV2",BEIN 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17875&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17875&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV2",BEIN 3
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV2",BEIN 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6317&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=6317&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV3",CTV 1
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV3",CTV 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=6685&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=6685&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV3",CTV 2
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV3",CTV 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=6686&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=6686&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV3",CTV 3
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV3",CTV 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=6786&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=6786&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV3",CTV 1 Alt
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV3",CTV 1 Alt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17938&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV3",CTV 2 Alt
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV3",CTV 2 Alt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17939&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=17939&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV3",CTV 3 Alt
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV3",CTV 3 Alt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=19404&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=19404&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV3",CTV 5
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV3",CTV 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=9182&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV3",CTV 6
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV3",CTV 6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=9183&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV3",SPOTV
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV3",SPOTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17139&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=17139&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV3",SPOTV 2
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV3",SPOTV 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17140&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=17140&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV3",BEINS
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV3",BEINS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=6299&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=6299&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV3",BEIN 1
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV3",BEIN 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17884&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=17884&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV3",BEIN 2
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV3",BEIN 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17875&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=17875&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="CH | CTV3",BEIN 3
+#EXTINF:-1 tvg-logo="" group-title="NG | CTV3",BEIN 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=6317&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-title="CH | CTV4" tvg-logo=" ",CTV 1
+#EXTINF:-1 group-title="NG | CTV4" tvg-logo="",CTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -364,7 +567,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=6685&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=6685&type=dash
 
-#EXTINF:-1 group-title="CH | CTV4" tvg-logo=" ",CTV 2
+#EXTINF:-1 group-title="NG | CTV4" tvg-logo="",CTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -372,7 +575,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=6686&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=6686&type=dash
 
-#EXTINF:-1 group-title="CH | CTV4" tvg-logo=" ",CTV 3
+#EXTINF:-1 group-title="NG | CTV4" tvg-logo="",CTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -380,7 +583,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=6786&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="CH | CTV4" tvg-logo=" ",CTV 1 Alt
+#EXTINF:-1 group-title="NG | CTV4" tvg-logo="",CTV 1 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -388,7 +591,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17938&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=17938&type=dash
 
-#EXTINF:-1 group-title="CH | CTV4" tvg-logo=" ",CTV 2 Alt
+#EXTINF:-1 group-title="NG | CTV4" tvg-logo="",CTV 2 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -396,7 +599,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17939&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=17939&type=dash
 
-#EXTINF:-1 group-title="CH | CTV4" tvg-logo=" ",CTV 3 Alt
+#EXTINF:-1 group-title="NG | CTV4" tvg-logo="",CTV 3 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -404,7 +607,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=17939&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=19404&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=19404&type=dash
 
-#EXTINF:-1 group-title="CH | CTV4" tvg-logo=" ",CTV 5
+#EXTINF:-1 group-title="NG | CTV4" tvg-logo="",CTV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -412,7 +615,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=19404&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=9182&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=9182&type=dash
 
-#EXTINF:-1 group-title="CH | CTV4" tvg-logo=" ",CTV 6
+#EXTINF:-1 group-title="NG | CTV4" tvg-logo="",CTV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -420,7 +623,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=9183&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=9183&type=dash
 
-#EXTINF:-1 group-title="CH | CTV4" tvg-logo=" ",PL TV
+#EXTINF:-1 group-title="NG | CTV4" tvg-logo="",PL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -428,7 +631,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=9353&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=9353&type=dash
 
-#EXTINF:-1 group-title="CH | CTV4" tvg-logo=" ",SPOTV 1
+#EXTINF:-1 group-title="NG | CTV4" tvg-logo="",SPOTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -436,7 +639,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17139&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=17139&type=dash
 
-#EXTINF:-1 group-title="CH | CTV4" tvg-logo=" ",SPOTV 2
+#EXTINF:-1 group-title="NG | CTV4" tvg-logo="",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -444,7 +647,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17140&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=17140&type=dash
 
-#EXTINF:-1 group-title="CH | CTV4" tvg-logo=" ",BEINS
+#EXTINF:-1 group-title="NG | CTV4" tvg-logo="",BEINS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -452,7 +655,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=17140&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=6299&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=6299&type=dash
 
-#EXTINF:-1 group-title="CH | CTV4" tvg-logo=" ",BEIN 1
+#EXTINF:-1 group-title="NG | CTV4" tvg-logo="",BEIN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -460,7 +663,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17884&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=17884&type=dash
 
-#EXTINF:-1 group-title="CH | CTV4" tvg-logo=" ",BEIN 2
+#EXTINF:-1 group-title="NG | CTV4" tvg-logo="",BEIN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -468,7 +671,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=17884&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17875&type=drm
 https://nextgenz.my.id/event/pidio/index.mpd?id=17875&type=dash
 
-#EXTINF:-1 group-title="CH | CTV4" tvg-logo=" ",BEIN 3
+#EXTINF:-1 group-title="NG | CTV4" tvg-logo="",BEIN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -656,7 +859,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=6317&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-title="PL | CTV3" tvg-logo=" ",CTV 1
+#EXTINF:-1 group-title="PL | CTV3" tvg-logo="",CTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -664,7 +867,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=6685&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=6685&type=dash
 
-#EXTINF:-1 group-title="PL | CTV3" tvg-logo=" ",CTV 1 Alt
+#EXTINF:-1 group-title="PL | CTV3" tvg-logo="",CTV 1 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -672,7 +875,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17938&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 group-title="PL | CTV3" tvg-logo=" ",CTV 2
+#EXTINF:-1 group-title="PL | CTV3" tvg-logo="",CTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -680,7 +883,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=6686&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=6686&type=dash
 
-#EXTINF:-1 group-title="PL | CTV3" tvg-logo=" ",CTV 2 Alt
+#EXTINF:-1 group-title="PL | CTV3" tvg-logo="",CTV 2 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -688,7 +891,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17939&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=17939&type=dash
 
-#EXTINF:-1 group-title="PL | CTV3" tvg-logo=" ",CTV 3
+#EXTINF:-1 group-title="PL | CTV3" tvg-logo="",CTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -696,7 +899,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=17939&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=6786&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="PL | CTV3" tvg-logo=" ",CTV 3 Alt
+#EXTINF:-1 group-title="PL | CTV3" tvg-logo="",CTV 3 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -704,7 +907,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=19404&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=19404&type=dash
 
-#EXTINF:-1 group-title="PL | CTV3" tvg-logo=" ",CTV 5
+#EXTINF:-1 group-title="PL | CTV3" tvg-logo="",CTV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -712,7 +915,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=19404&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=9182&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 group-title="PL | CTV3" tvg-logo=" ",CTV 6
+#EXTINF:-1 group-title="PL | CTV3" tvg-logo="",CTV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -720,7 +923,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=9183&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 group-title="PL | CTV3" tvg-logo=" ",PL TV
+#EXTINF:-1 group-title="PL | CTV3" tvg-logo="",PL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -728,7 +931,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=9353&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=9353&type=dash
 
-#EXTINF:-1 group-title="PL | CTV3" tvg-logo=" ",SPO TV
+#EXTINF:-1 group-title="PL | CTV3" tvg-logo="",SPO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -736,7 +939,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17139&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=17139&type=dash
 
-#EXTINF:-1 group-title="PL | CTV3" tvg-logo=" ",SPO TV2
+#EXTINF:-1 group-title="PL | CTV3" tvg-logo="",SPO TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -744,7 +947,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17140&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=17140&type=dash
 
-#EXTINF:-1 group-title="PL | CTV3" tvg-logo=" ",BEINS
+#EXTINF:-1 group-title="PL | CTV3" tvg-logo="",BEINS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -752,7 +955,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=17140&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=6299&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=6299&type=dash
 
-#EXTINF:-1 group-title="PL | CTV3" tvg-logo=" ",BEIN 1
+#EXTINF:-1 group-title="PL | CTV3" tvg-logo="",BEIN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -760,7 +963,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17884&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=17884&type=dash
 
-#EXTINF:-1 group-title="PL | CTV3" tvg-logo=" ",BEIN 2
+#EXTINF:-1 group-title="PL | CTV3" tvg-logo="",BEIN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -768,7 +971,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=17884&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17875&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=17875&type=dash
 
-#EXTINF:-1 group-title="PL | CTV3" tvg-logo=" ",BEIN 3
+#EXTINF:-1 group-title="PL | CTV3" tvg-logo="",BEIN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -776,7 +979,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=6317&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-title="PL | CTV4" tvg-logo=" ",CTV 1
+#EXTINF:-1 group-title="PL | CTV4" tvg-logo="",CTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -784,7 +987,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=6685&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=6685&type=dash
 
-#EXTINF:-1 group-title="PL | CTV4" tvg-logo=" ",CTV 1 Alt
+#EXTINF:-1 group-title="PL | CTV4" tvg-logo="",CTV 1 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -792,7 +995,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17938&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=17938&type=dash
 
-#EXTINF:-1 group-title="PL | CTV4" tvg-logo=" ",CTV 2
+#EXTINF:-1 group-title="PL | CTV4" tvg-logo="",CTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -800,7 +1003,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=6686&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=6686&type=dash
 
-#EXTINF:-1 group-title="PL | CTV4" tvg-logo=" ",CTV 2 Alt
+#EXTINF:-1 group-title="PL | CTV4" tvg-logo="",CTV 2 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -808,7 +1011,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17939&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=17939&type=dash
 
-#EXTINF:-1 group-title="PL | CTV4" tvg-logo=" ",CTV 3
+#EXTINF:-1 group-title="PL | CTV4" tvg-logo="",CTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -816,7 +1019,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17939&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=6786&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="PL | CTV4" tvg-logo=" ",CTV 3 Alt
+#EXTINF:-1 group-title="PL | CTV4" tvg-logo="",CTV 3 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -824,7 +1027,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=19404&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=19404&type=dash
 
-#EXTINF:-1 group-title="PL | CTV4" tvg-logo=" ",CTV 5
+#EXTINF:-1 group-title="PL | CTV4" tvg-logo="",CTV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -832,7 +1035,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=19404&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=9182&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=9182&type=dash
 
-#EXTINF:-1 group-title="PL | CTV4" tvg-logo=" ",CTV 6
+#EXTINF:-1 group-title="PL | CTV4" tvg-logo="",CTV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -840,7 +1043,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=9183&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=9183&type=dash
 
-#EXTINF:-1 group-title="PL | CTV4" tvg-logo=" ",PL TV
+#EXTINF:-1 group-title="PL | CTV4" tvg-logo="",PL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -848,7 +1051,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=9353&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=9353&type=dash
 
-#EXTINF:-1 group-title="PL | CTV4" tvg-logo=" ",SPO TV
+#EXTINF:-1 group-title="PL | CTV4" tvg-logo="",SPO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -856,7 +1059,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17139&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=17139&type=dash
 
-#EXTINF:-1 group-title="PL | CTV4" tvg-logo=" ",SPO TV2
+#EXTINF:-1 group-title="PL | CTV4" tvg-logo="",SPO TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -864,7 +1067,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17140&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=17140&type=dash
 
-#EXTINF:-1 group-title="PL | CTV4" tvg-logo=" ",BEINS
+#EXTINF:-1 group-title="PL | CTV4" tvg-logo="",BEINS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -872,7 +1075,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17140&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=6299&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=6299&type=dash
 
-#EXTINF:-1 group-title="PL | CTV4" tvg-logo=" ",BEIN 1
+#EXTINF:-1 group-title="PL | CTV4" tvg-logo="",BEIN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -880,7 +1083,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17884&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=17884&type=dash
 
-#EXTINF:-1 group-title="PL | CTV4" tvg-logo=" ",BEIN 2
+#EXTINF:-1 group-title="PL | CTV4" tvg-logo="",BEIN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -888,7 +1091,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17884&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17875&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=17875&type=dash
 
-#EXTINF:-1 group-title="PL | CTV4" tvg-logo=" ",BEIN 3
+#EXTINF:-1 group-title="PL | CTV4" tvg-logo="",BEIN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -896,7 +1099,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=6317&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=6317&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG",CAMPIONE TV 1 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV5",CAMPIONE TV 1 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -907,7 +1110,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG",CAMPIONE TV 1 Alt 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV5",CAMPIONE TV 1 Alt 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -918,7 +1121,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17938&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG",CAMPIONE TV 2 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV5",CAMPIONE TV 2 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -929,7 +1132,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6686&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=6686&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG",CAMPIONE TV 2 Alt 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV5",CAMPIONE TV 2 Alt 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -940,7 +1143,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17939&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=17939&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG",CAMPIONE TV 3 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV5",CAMPIONE TV 3 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -951,7 +1154,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17939&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6786&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG",CAMPIONE TV 3 Alt 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV5",CAMPIONE TV 3 Alt 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -962,7 +1165,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG",CAMPIONE TV 5 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV5",CAMPIONE TV 5 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -973,7 +1176,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG",CAMPIONE TV 6 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV5",CAMPIONE TV 6 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -984,7 +1187,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG",CAMPIONE PL TV 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV5",CAMPIONE PL TV 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -995,7 +1198,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9353&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=9353&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG",SPOTV 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV5",SPOTV 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1006,7 +1209,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17139&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=17139&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG",SPOTV 2 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV5",SPOTV 2 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1017,7 +1220,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17140&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=17140&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG",BEINS 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV5",BEINS 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1028,7 +1231,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17140&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6299&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=6299&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG",BEIN 1 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV5",BEIN 1 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1039,7 +1242,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17884&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=17884&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG",BEIN 2 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV5",BEIN 2 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1050,7 +1253,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17884&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17875&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=17875&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG",BEIN 3 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV5",BEIN 3 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1061,7 +1264,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6317&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=6317&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG2",CAMPIONE TV 1 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV6",CAMPIONE TV 1 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1072,7 +1275,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=6685&type=drm 
 https://nextgenz.my.id/event/pidio/index.mpd?id=6685&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG2",CAMPIONE TV 1 Alt 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV6",CAMPIONE TV 1 Alt 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1083,7 +1286,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17938&type=drm 
 https://nextgenz.my.id/event/pidio/index.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG2",CAMPIONE TV 2 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV6",CAMPIONE TV 2 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1094,7 +1297,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=6686&type=drm 
 https://nextgenz.my.id/event/pidio/index.mpd?id=6686&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG2",CAMPIONE TV 2 Alt 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV6",CAMPIONE TV 2 Alt 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1105,7 +1308,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17939&type=drm 
 https://nextgenz.my.id/event/pidio/index.mpd?id=17939&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG2",CAMPIONE TV 3 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV6",CAMPIONE TV 3 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1116,7 +1319,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=17939&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=6786&type=drm 
 https://nextgenz.my.id/event/pidio/index.mpd?id=6786&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG2",CAMPIONE TV 3 Alt 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV6",CAMPIONE TV 3 Alt 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1127,7 +1330,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=19404&type=drm 
 https://nextgenz.my.id/event/pidio/index.mpd?id=19404&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG2",CAMPIONE TV 5 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV6",CAMPIONE TV 5 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1138,7 +1341,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=19404&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=9182&type=drm 
 https://nextgenz.my.id/event/pidio/index.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG2",CAMPIONE TV 6 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV6",CAMPIONE TV 6 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1149,7 +1352,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=9183&type=drm 
 https://nextgenz.my.id/event/pidio/index.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG2",CAMPIONE PL TV 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV6",CAMPIONE PL TV 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1160,7 +1363,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=9353&type=drm 
 https://nextgenz.my.id/event/pidio/index.mpd?id=9353&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG2",SPOTV 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV6",SPOTV 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1171,7 +1374,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17139&type=drm 
 https://nextgenz.my.id/event/pidio/index.mpd?id=17139&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG2",SPOTV 2 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV6",SPOTV 2 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1182,7 +1385,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17140&type=drm 
 https://nextgenz.my.id/event/pidio/index.mpd?id=17140&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG2",BEINS 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV6",BEINS 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1193,7 +1396,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=17140&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=6299&type=drm 
 https://nextgenz.my.id/event/pidio/index.mpd?id=6299&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG2",BEIN 1 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV6",BEIN 1 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1204,7 +1407,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17884&type=drm 
 https://nextgenz.my.id/event/pidio/index.mpd?id=17884&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG2",BEIN 2 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV6",BEIN 2 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1215,7 +1418,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=17884&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=17875&type=drm 
 https://nextgenz.my.id/event/pidio/index.mpd?id=17875&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | NG2",BEIN 3 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="NG | CTV6",BEIN 3 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1226,7 +1429,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=6317&type=drm 
 https://nextgenz.my.id/event/pidio/index.mpd?id=6317&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",CAMPIONE TV 1 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",CAMPIONE TV 1 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1237,7 +1440,7 @@ https://nextgenz.my.id/event/pidio/index.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=6685&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=6685&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",CAMPIONE TV 1 Alt🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",CAMPIONE TV 1 Alt🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1248,7 +1451,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17938&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",CAMPIONE TV 2 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",CAMPIONE TV 2 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1259,7 +1462,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=6686&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=6686&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",CAMPIONE TV 2 Alt🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",CAMPIONE TV 2 Alt🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1270,7 +1473,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17939&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=17939&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",CAMPIONE TV 3 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",CAMPIONE TV 3 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1281,7 +1484,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17939&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=6786&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=6786&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",CAMPIONE TV 3 Alt🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",CAMPIONE TV 3 Alt🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1292,7 +1495,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=19404&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=19404&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",CAMPIONE TV 5 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",CAMPIONE TV 5 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1303,7 +1506,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=19404&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=9182&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",CAMPIONE TV 6 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",CAMPIONE TV 6 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1314,7 +1517,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=9183&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",CAMPIONE PL TV 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",CAMPIONE PL TV 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1325,7 +1528,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=9353&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=9353&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",SPOTV 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",SPOTV 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1336,7 +1539,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17139&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=17139&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",SPOTV 2 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",SPOTV 2 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1347,7 +1550,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17140&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=17140&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",BEINS 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",BEINS 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1358,7 +1561,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17140&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=6299&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=6299&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",BEIN 1 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",BEIN 1 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1369,7 +1572,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17884&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=17884&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",BEIN 2 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",BEIN 2 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1380,7 +1583,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17884&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=17875&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=17875&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",BEIN 3 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",BEIN 3 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1391,7 +1594,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=6317&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=6317&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",TES PL1 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",TES PL1 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1402,7 +1605,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=19375&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=19375&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",TES PL2 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",TES PL2 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1413,7 +1616,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=19375&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=18796&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=18796&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",TES PL3 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",TES PL3 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1424,7 +1627,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=18796&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=18797&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=18797&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL",TES LIGA PORTUGAL 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV5",TES LIGA PORTUGAL 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1435,7 +1638,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=18797&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=18739&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=18739&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",CAMPIONE TV 1 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",CAMPIONE TV 1 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1446,7 +1649,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=18739&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=6685&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=6685&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",CAMPIONE TV 1 Alt🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",CAMPIONE TV 1 Alt🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1457,7 +1660,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17938&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",CAMPIONE TV 2 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",CAMPIONE TV 2 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1468,7 +1671,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=6686&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=6686&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",CAMPIONE TV 2 Alt🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",CAMPIONE TV 2 Alt🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1479,7 +1682,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17939&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=17939&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",CAMPIONE TV 3 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",CAMPIONE TV 3 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1490,7 +1693,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=17939&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=6786&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",CAMPIONE TV 3 Alt🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",CAMPIONE TV 3 Alt🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1501,7 +1704,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=19404&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=19404&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",CAMPIONE TV 5 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",CAMPIONE TV 5 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1512,7 +1715,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=19404&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=9182&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",CAMPIONE TV 6 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",CAMPIONE TV 6 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1523,7 +1726,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=9183&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",CAMPIONE PL TV 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",CAMPIONE PL TV 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1534,7 +1737,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=9353&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=9353&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",SPOTV 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",SPOTV 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1545,7 +1748,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17139&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=17139&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",SPOTV 2 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",SPOTV 2 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1556,7 +1759,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17140&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=17140&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",BEINS 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",BEINS 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1567,7 +1770,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=17140&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=6299&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=6299&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",BEIN 1 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",BEIN 1 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1578,7 +1781,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17884&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=17884&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",BEIN 2 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",BEIN 2 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1589,7 +1792,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=17884&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17875&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=17875&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",BEIN 3 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",BEIN 3 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1600,7 +1803,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=6317&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=6317&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",TES PL1 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",TES PL1 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1611,7 +1814,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=19375&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=19375&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",TES PL2 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",TES PL2 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1622,7 +1825,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=19375&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=18796&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=18796&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",TES PL3 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",TES PL3 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1633,7 +1836,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=18796&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=18797&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=18797&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | PL2",TES LIGA PORTUGAL 🟨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="PL | CTV6",TES LIGA PORTUGAL 🟨
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -1643,6 +1846,306 @@ https://parlay12.serv00.net/pidio/play.mpd?id=18797&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=18739&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=18739&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID",CTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID",CTV 1 ALT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17938&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=17938&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID",CTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6686&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=6686&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID",CTV 2 ALT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17939&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=17939&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID",CTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6786&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID",CTV 3 ALT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID",CTV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID",CTV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID",PL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9353&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=9353&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID",SPO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17139&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=17139&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID",SPO TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17140&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=17140&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID",BEINS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6299&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=6299&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID",BEIN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17884&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=17884&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID",BEIN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17875&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID",BEIN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6317&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=6317&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID",CTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=6685&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID",CTV 1 ALT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17938&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=17938&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID",CTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=6686&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=6686&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID",CTV 2 ALT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17939&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=17939&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID",CTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=6786&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID",CTV 3 ALT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=19404&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=19404&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID",CTV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=9182&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID",CTV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=9183&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID",PL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=9353&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=9353&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID",SPO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17139&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=17139&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID",SPO TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17140&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=17140&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID",BEINS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=6299&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=6299&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID",BEIN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17884&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=17884&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID",BEIN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=17875&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID",BEIN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=6317&type=drm
+https://parlay12.serv00.net/pidio/play.mpd?id=6317&type=dash
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID2",CTV 1
+https://nextgenz.my.id/event/pidio/play.m3u8?id=6685&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID2",CTV 1 ALT
+https://nextgenz.my.id/event/pidio/play.m3u8?id=17938&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID2",CTV 2
+https://nextgenz.my.id/event/pidio/play.m3u8?id=6686&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID2",CTV 2 ALT
+https://nextgenz.my.id/event/pidio/play.m3u8?id=17939&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID2",CTV 3
+https://nextgenz.my.id/event/pidio/play.m3u8?id=6786&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID2",CTV 3 ALT
+https://nextgenz.my.id/event/pidio/play.m3u8?id=19404&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID2",CTV 5
+https://nextgenz.my.id/event/pidio/play.m3u8?id=9182&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID2",CTV 6
+https://nextgenz.my.id/event/pidio/play.m3u8?id=9183&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID2",PL TV
+https://nextgenz.my.id/event/pidio/play.m3u8?id=9353&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID2",SPO TV
+https://nextgenz.my.id/event/pidio/play.m3u8?id=17139&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID2",SPO TV2
+https://nextgenz.my.id/event/pidio/play.m3u8?id=17140&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID2",BEINS
+https://nextgenz.my.id/event/pidio/play.m3u8?id=6299&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID2",BEIN 1
+https://nextgenz.my.id/event/pidio/play.m3u8?id=17884&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID2",BEIN 2
+https://nextgenz.my.id/event/pidio/play.m3u8?id=17875&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NG-VID2",BEIN 3
+https://nextgenz.my.id/event/pidio/play.m3u8?id=6317&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID2",CTV 1
+https://parlay12.serv00.net/pidio/play.m3u8?id=6685&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID2",CTV 1 ALT
+https://parlay12.serv00.net/pidio/play.m3u8?id=17938&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID2",CTV 2
+https://parlay12.serv00.net/pidio/play.m3u8?id=6686&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID2",CTV 2 ALT
+https://parlay12.serv00.net/pidio/play.m3u8?id=17939&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID2",CTV 3
+https://parlay12.serv00.net/pidio/play.m3u8?id=6786&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID2",CTV 3 ALT
+https://parlay12.serv00.net/pidio/play.m3u8?id=19404&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID2",CTV 5
+https://parlay12.serv00.net/pidio/play.m3u8?id=9182&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID2",CTV 6
+https://parlay12.serv00.net/pidio/play.m3u8?id=9183&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID2",PL TV
+https://parlay12.serv00.net/pidio/play.m3u8?id=9353&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID2",SPO TV
+https://parlay12.serv00.net/pidio/play.m3u8?id=17139&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID2",SPO TV2
+https://parlay12.serv00.net/pidio/play.m3u8?id=17140&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID2",BEINS
+https://parlay12.serv00.net/pidio/play.m3u8?id=6299&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID2",BEIN 1
+https://parlay12.serv00.net/pidio/play.m3u8?id=17884&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID2",BEIN 2
+https://parlay12.serv00.net/pidio/play.m3u8?id=17875&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PL-VID2",BEIN 3
+https://parlay12.serv00.net/pidio/play.m3u8?id=6317&type=hls
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VID-SPO-SL",CTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -1964,210 +2467,6 @@ https://nextgenz.my.id/event/pidio/index.m3u8?id=17875&type=hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VID2-SPO-FAST",BEIN 3
 https://nextgenz.my.id/event/pidio/index.m3u8?id=6317&type=hls
 
-
-
-#EXTINF:-1 group-title="TRANS" tvg-logo=" ",TRANS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=dash
-
-#EXTINF:-1 group-title="TRANS" tvg-logo=" ",TRANS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=733&type=drm
-https://nextgenz.my.id/event/pidio/index.mpd?id=733&type=dash
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="TRANS",TRANS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=drm 
-https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=dash
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="TRANS",TRANS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=733&type=drm 
-https://nextgenz.my.id/event/pidio/index.mpd?id=733&type=dash
-
-#EXTINF:-1 tvg-logo="" group-title="TRANS",TRANS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=dash
-
-#EXTINF:-1 tvg-logo="" group-title="TRANS",TRANS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=733&type=drm
-https://nextgenz.my.id/event/pidio/index.mpd?id=733&type=dash
-
-#EXTINF:-1 tvg-logo="" group-title="TRANS",TRANS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=733&type=drm
-https://parlay12.serv00.net/pidio/index.mpd?id=733&type=dash
-
-#EXTINF:-1 tvg-logo="" group-title="TRANS",TRANS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=733&type=drm
-https://parlay12.serv00.net/pidio/play.mpd?id=733&type=dash
-
-#EXTINF:-1 group-title="TRANS" tvg-logo=" ",TRANS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=733&type=drm
-https://parlay12.serv00.net/pidio/play.mpd?id=733&type=dash
-
-#EXTINF:-1 group-title="TRANS" tvg-logo=" ",TRANS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=733&type=drm
-https://parlay12.serv00.net/pidio/index.mpd?id=733&type=dash
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="TRANS",TRANS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=733&type=drm
-https://parlay12.serv00.net/pidio/index.mpd?id=733&type=dash
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="TRANS",TRANS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=733&type=drm
-https://parlay12.serv00.net/pidio/play.mpd?id=733&type=dash
-
-
-
-#EXTINF:-1 group-title="TRANSMED" tvg-logo=" ",TRANS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
-
-#EXTINF:-1 group-title="TRANSMED" tvg-logo=" ",TRANS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=734&type=drm
-https://nextgenz.my.id/event/pidio/index.mpd?id=734&type=dash
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="TRANSMED",TRANS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=drm 
-https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="TRANSMED",TRANS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=734&type=drm 
-https://nextgenz.my.id/event/pidio/index.mpd?id=734&type=dash
-
-#EXTINF:-1 tvg-logo="" group-title="TRANSMED",TRANS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
-
-#EXTINF:-1 tvg-logo="" group-title="TRANSMED",TRANS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/index.mpd?id=734&type=drm
-https://nextgenz.my.id/event/pidio/index.mpd?id=734&type=dash
-
-#EXTINF:-1 tvg-logo="" group-title="TRANSMED",TRANS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=734&type=drm
-https://parlay12.serv00.net/pidio/index.mpd?id=734&type=dash
-
-#EXTINF:-1 tvg-logo="" group-title="TRANSMED",TRANS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=734&type=drm
-https://parlay12.serv00.net/pidio/play.mpd?id=734&type=dash
-
-#EXTINF:-1 group-title="TRANSMED" tvg-logo=" ",TRANS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=734&type=drm
-https://parlay12.serv00.net/pidio/play.mpd?id=734&type=dash
-
-#EXTINF:-1 group-title="TRANSMED" tvg-logo=" ",TRANS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=734&type=drm
-https://parlay12.serv00.net/pidio/index.mpd?id=734&type=dash
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="TRANSMED",TRANS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=734&type=drm
-https://parlay12.serv00.net/pidio/index.mpd?id=734&type=dash
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="TRANSMED",TRANS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=734&type=drm
-https://parlay12.serv00.net/pidio/play.mpd?id=734&type=dash
-
 #EXTINF:-1 tvg-logo="" group-title="PL| TARKAM1",BRI 1A
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2252,7 +2551,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=19543&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=19544&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=19544&type=dash
 
-#EXTINF:-1 group-title="PL| TARKAM3" tvg-logo=" ",LIGA 1A
+#EXTINF:-1 group-title="PL| TARKAM3" tvg-logo="",LIGA 1A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2260,7 +2559,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=19544&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=19353&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=19353&type=dash
 
-#EXTINF:-1 group-title="PL| TARKAM3" tvg-logo=" ",LIGA 1B
+#EXTINF:-1 group-title="PL| TARKAM3" tvg-logo="",LIGA 1B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2268,7 +2567,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=19353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=19354&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=19354&type=dash
 
-#EXTINF:-1 group-title="PL| TARKAM3" tvg-logo=" ",LIGA 1C
+#EXTINF:-1 group-title="PL| TARKAM3" tvg-logo="",LIGA 1C
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2276,7 +2575,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=19354&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=19355&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=19355&type=dash
 
-#EXTINF:-1 group-title="PL| TARKAM3" tvg-logo=" ",LIGA 1D
+#EXTINF:-1 group-title="PL| TARKAM3" tvg-logo="",LIGA 1D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2284,7 +2583,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=19355&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=19988&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=19988&type=dash
 
-#EXTINF:-1 group-title="PL| TARKAM3" tvg-logo=" ",LIGA 2A
+#EXTINF:-1 group-title="PL| TARKAM3" tvg-logo="",LIGA 2A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2292,7 +2591,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=19988&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=19542&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=19542&type=dash
 
-#EXTINF:-1 group-title="PL| TARKAM3" tvg-logo=" ",LIGA 2B
+#EXTINF:-1 group-title="PL| TARKAM3" tvg-logo="",LIGA 2B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2300,7 +2599,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=19542&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=19543&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=19543&type=dash
 
-#EXTINF:-1 group-title="PL| TARKAM3" tvg-logo=" ",LIGA 2C
+#EXTINF:-1 group-title="PL| TARKAM3" tvg-logo="",LIGA 2C
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2308,7 +2607,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=19543&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/play.mpd?id=19544&type=drm
 https://parlay12.serv00.net/pidio/play.mpd?id=19544&type=dash
 
-#EXTINF:-1 group-title="PL| TARKAM4" tvg-logo=" ",LIGA 1A
+#EXTINF:-1 group-title="PL| TARKAM4" tvg-logo="",LIGA 1A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2316,7 +2615,7 @@ https://parlay12.serv00.net/pidio/play.mpd?id=19544&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=19353&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=19353&type=dash
 
-#EXTINF:-1 group-title="PL| TARKAM4" tvg-logo=" ",LIGA 1B
+#EXTINF:-1 group-title="PL| TARKAM4" tvg-logo="",LIGA 1B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2324,7 +2623,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=19353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=19354&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=19354&type=dash
 
-#EXTINF:-1 group-title="PL| TARKAM4" tvg-logo=" ",LIGA 1C
+#EXTINF:-1 group-title="PL| TARKAM4" tvg-logo="",LIGA 1C
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2332,7 +2631,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=19354&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=19355&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=19355&type=dash
 
-#EXTINF:-1 group-title="PL| TARKAM4" tvg-logo=" ",LIGA 1D
+#EXTINF:-1 group-title="PL| TARKAM4" tvg-logo="",LIGA 1D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2340,7 +2639,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=19355&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=19988&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=19988&type=dash
 
-#EXTINF:-1 group-title="PL| TARKAM4" tvg-logo=" ",LIGA 2A
+#EXTINF:-1 group-title="PL| TARKAM4" tvg-logo="",LIGA 2A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2348,7 +2647,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=19988&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=19542&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=19542&type=dash
 
-#EXTINF:-1 group-title="PL| TARKAM4" tvg-logo=" ",LIGA 2B
+#EXTINF:-1 group-title="PL| TARKAM4" tvg-logo="",LIGA 2B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2356,7 +2655,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=19542&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=19543&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=19543&type=dash
 
-#EXTINF:-1 group-title="PL| TARKAM4" tvg-logo=" ",LIGA 2C
+#EXTINF:-1 group-title="PL| TARKAM4" tvg-logo="",LIGA 2C
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
