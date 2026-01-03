@@ -689,6 +689,31 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/moji.png" group-title="LOKAL ID",MOJITV 
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/23
 
+#EXTINF:-1 tvg-logo="" group-title="PL26",PL 1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/2026/astro/pl1
+#EXTINF:-1 tvg-logo="" group-title="PL26",PL 1-1
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/2026/astro/pl1-1
+#EXTINF:-1 tvg-logo="" group-title="PL26",PL 1-1a
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/2026/astro/pl1-1a
+#EXTINF:-1 tvg-logo="" group-title="PL26",PL 1-1b
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/2026/astro/pl1-1b
+#EXTINF:-1 tvg-logo="" group-title="PL26",PL 1a
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/2026/astro/pl1a
+#EXTINF:-1 tvg-logo="" group-title="PL26",PL 1b
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/2026/astro/pl1b
+#EXTINF:-1 tvg-logo="" group-title="PL26",PL 2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/2026/astro/pl2
+#EXTINF:-1 tvg-logo="" group-title="PL26",PL 2-2
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/2026/astro/pl2-2
+#EXTINF:-1 tvg-logo="" group-title="PL26",PL 2-2a
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/2026/astro/pl2-2a
+#EXTINF:-1 tvg-logo="" group-title="PL26",PL 2-2b
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/2026/astro/pl2-2b
+#EXTINF:-1 tvg-logo="" group-title="PL26",PL 2a
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/2026/astro/pl2a
+#EXTINF:-1 tvg-logo="" group-title="PL26",PL 2b
+https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/Sports/2026/astro/pl2b
+
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="AR ▎BEIN SPORTS HD",BEIN ▎BEIN SPORTS NEWS HD S2
 http://line.otquick.com:80/d5mwT51QDb/mmZBjyMsSb/897658
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="AR ▎BEIN SPORTS HD",BEIN ▎BEIN SPORTS NEWS HD S3
