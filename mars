@@ -6,6 +6,134 @@ https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/Champi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI3q3Gp5kI9cpMuunTYNBsGQq_B-8uGjDUTw&s" group-title="*CHAMPIONS TV",Champions TV 3
 https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/ChampionTV3.m3u8
 
+#EXTINF:-1 group-logo="" group-title="#CHAMPIONSTV", CTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6685&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6685&type=dash
+
+#EXTINF:-1 group-logo="" group-title="#CHAMPIONSTV", CTV 1A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=17938&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=17938&type=dash
+
+#EXTINF:-1 group-logo="" group-title="#CHAMPIONSTV", CTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6686&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6686&type=dash
+
+#EXTINF:-1 group-logo="" group-title="#CHAMPIONSTV", CTV 2A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=17939&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=17939&type=dash
+
+#EXTINF:-1 group-logo="" group-title="#CHAMPIONSTV", CTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6786&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6786&type=dash
+
+#EXTINF:-1 group-logo="" group-title="#CHAMPIONSTV", PL CTV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=9182&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=9182&type=dash
+
+#EXTINF:-1 group-logo="" group-title="#CHAMPIONSTV", PL CTV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=9183&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=9183&type=dash
+
+#EXTINF:-1 group-logo="" group-title="#CHAMPIONSTV", PL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=19375&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=19375&type=dash
+
+#EXTINF:-1 group-logo="" group-title="#CHAMPIONSTV", PL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=19536&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=19536&type=dash
+
+#EXTINF:-1 group-logo="" group-title="#CHAMPIONSTV", PL 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=18796&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=18796&type=dash
+
+#EXTINF:-1 group-logo="" group-title="#CHAMPIONSTV", PL 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=18797&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=18797&type=dash
+
+#EXTINF:-1 group-logo="" group-title="#CHAMPIONSTV", PL 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=20231&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=20231&type=dash
+
+#EXTINF:-1 group-logo="" group-title="#CHAMPIONSTV", LIGA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=19354&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=19354&type=dash
+
+#EXTINF:-1 group-logo="" group-title="#CHAMPIONSTV", LIGA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=19543&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=19543&type=dash
+
+#EXTINF:-1 group-logo="" group-title="#CHAMPIONSTV", BEIN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=17875&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=17875&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0cvt-wtvqu0q4eqaDDncye4K6TI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827319/e518b1.jpg" group-title="#JADWAL NON AKUN", 🔴 13:30 wib 05/01/26 United Cup 2026 - Day 4 (Night Session)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=17875&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=17875&type=dash
+
 #EXTINF:-1 tvg-logo="https://iili.io/2lP4Kq7.png" group-title="*CHAMPIONS TV",Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -58,72 +186,72 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-1.jpg" group-title="*CHAMPIONS TV Indo",Champions TV 1 🟥
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-1.jpg" group-title="*CHAMPIONS TV",Champions TV 1 🟥
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-2.jpg" group-title="*CHAMPIONS TV Indo",Champions TV 2 🟥
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-2.jpg" group-title="*CHAMPIONS TV",Champions TV 2 🟥
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
 https://sweet-night-1d1d.worst.workers.dev/?id=17939&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-3.jpg" group-title="*CHAMPIONS TV Indo",Champions TV 3 🟥
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-3.jpg" group-title="*CHAMPIONS TV",Champions TV 3 🟥
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-5.jpg" group-title="*CHAMPIONS TV Indo",Champions TV 5 🟥
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-5.jpg" group-title="*CHAMPIONS TV",Champions TV 5 🟥
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-6.jpg" group-title="*CHAMPIONS TV Indo",Champions TV 6 🟥
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-6.jpg" group-title="*CHAMPIONS TV",Champions TV 6 🟥
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="*CHAMPIONS TV Indo",Premier League 🟥
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="*CHAMPIONS TV",Premier League 🟥
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3e81ff40bc3176175b4be24a09b4701:d9ea434e89f07b3b999407110795f7ca
 https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-1-9fe953.jpg" group-title="*CHAMPIONS TV Indo",Spotv 🟥
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-1-9fe953.jpg" group-title="*CHAMPIONS TV",Spotv 🟥
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d49b45de7ba8c8dfbd1fe04b874be34:b4f813a1e820bc55dbef9f2540adf49f
 http://sweet-night-1d1d.worst.workers.dev/?id=17139&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-2-98d406.jpg" group-title="*CHAMPIONS TV Indo",Spotv 2 🟥
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-2-98d406.jpg" group-title="*CHAMPIONS TV",Spotv 2 🟥
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d576b166f055e97c9371a30835d1d90:bab4a56701471429489ecb6fa02d4ebf
 http://sweet-night-1d1d.worst.workers.dev/?id=17140&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-1-60c673.jpg" group-title="*CHAMPIONS TV Indo",Bein Sports 1 🟥
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-1-60c673.jpg" group-title="*CHAMPIONS TV",Bein Sports 1 🟥
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
 http://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="*CHAMPIONS TV Indo",Bein Sports 2 🟥
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="*CHAMPIONS TV",Bein Sports 2 🟥
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d8181bca994eaa57329e04c98122868:da9b3e7a19a1430b19047792fc6add67
 http://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="*CHAMPIONS TV Indo",Bein Sports 3 🟥
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="*CHAMPIONS TV",Bein Sports 3 🟥
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5dfecbb10fe0d3638ea692f9c501d69:a0c27751c01554f8d792304c82303955
 http://sweet-night-1d1d.worst.workers.dev/?id=6317&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/nba-tv-646502.jpg" group-title="*CHAMPIONS TV Indo",NBA TV 🟥
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/nba-tv-646502.jpg" group-title="*CHAMPIONS TV",NBA TV 🟥
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e35dc3fb8d20bf4e57df2101b6eec782:840171ea994e02a22f0b5c889ce197ec
 https://sweet-night-1d1d.worst.workers.dev/?id=6717&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-golf-1-c968f8.jpg" group-title="*CHAMPIONS TV Indo",Champions Golf 1 🟥
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-golf-1-c968f8.jpg" group-title="*CHAMPIONS TV",Champions Golf 1 🟥
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac331ce257155a0963c477ff065fa693:429963f60aa0157a87b67beac01b538b
 http://sweet-night-1d1d.worst.workers.dev/?id=18189&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-golf-2-5c9462.jpg" group-title="*CHAMPIONS TV Indo",Champions Golf 2 🟥
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-golf-2-5c9462.jpg" group-title="*CHAMPIONS TV",Champions Golf 2 🟥
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=473505e82df105bc95263c41eb5880a8:6feea8a3b6dc23b4f33ca74a822a9915
@@ -155,52 +283,61 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-1.jpg" group-title="&CHAMPIONS TV Indo",Champions TV 1 A 🟡
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-1.jpg" group-title="&CHAMPIONS TV",Champions TV 1 A 🟡
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-1.jpg" group-title="&CHAMPIONS TV Indo",Champions TV 1 B 🟡
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-1.jpg" group-title="&CHAMPIONS TV",Champions TV 1 B 🟡
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6685&type=drm
 https://skyblue.openwindow043.workers.dev/play.mpd?id=6685&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-2.jpg" group-title="&CHAMPIONS TV Indo",Champions TV 2 A 🟡
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-2.jpg" group-title="&CHAMPIONS TV",Champions TV 2 A 🟡
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
 https://sweet-night-1d1d.worst.workers.dev/?id=17939&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-2.jpg" group-title="&CHAMPIONS TV Indo",Champions TV 2 B 🟡
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-2.jpg" group-title="&CHAMPIONS TV",Champions TV 2 B 🟡
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6686&type=drm
 https://skyblue.openwindow043.workers.dev/play.mpd?id=6686&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-3.jpg" group-title="&CHAMPIONS TV Indo",Champions TV 3 A 🟡
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-3.jpg" group-title="&CHAMPIONS TV",Champions TV 3 A 🟡
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6786&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-3.jpg" group-title="&CHAMPIONS TV Indo",Champions TV 3 B 🟡
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-3.jpg" group-title="&CHAMPIONS TV",Champions TV 3 B 🟡
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6786&type=drm
 https://skyblue.openwindow043.workers.dev/play.mpd?id=6786&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-5.jpg" group-title="&CHAMPIONS TV Indo",Champions TV 5 A 🟡
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-5.jpg" group-title="&CHAMPIONS TV",Champions TV 5 A 🟡
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-5.jpg" group-title="&CHAMPIONS TV Indo",Champions TV 5 B 🟡
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-5.jpg" group-title="&CHAMPIONS TV",Champions TV 5 B 🟡
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9182&type=drm
 https://skyblue.openwindow043.workers.dev/play.mpd?id=9182&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-6.jpg" group-title="&CHAMPIONS TV Indo",Champions TV 6 A 🟡
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-6.jpg" group-title="&CHAMPIONS TV",Champions TV 6 A 🟡
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-6.jpg" group-title="&CHAMPIONS TV Indo",Champions TV 6 B 🟡
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-6.jpg" group-title="&CHAMPIONS TV",Champions TV 6 B 🟡
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9183&type=drm
