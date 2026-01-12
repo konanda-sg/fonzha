@@ -6,6 +6,104 @@ https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/Champi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI3q3Gp5kI9cpMuunTYNBsGQq_B-8uGjDUTw&s" group-title="*CHAMPIONS TV",Champions TV 3
 https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/ChampionTV3.m3u8
 
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="GetPer",CTV 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68d120b783a0420e63b17f44ef2a2af2:fcfad4cd945a66d489293b72f1eae8ac
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=6685
+
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="GetPer",CTV 1A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68d120b783a0420e63b17f44ef2a2af2:fcfad4cd945a66d489293b72f1eae8ac
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=17938
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="GetPer",CTV 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=6686
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="GetPer",CTV 2A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=17938
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="GetPer",CTV 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cac6ef6bc0cbe3fc48fccc8ddc02dc54:644eab662d05201dbdeaf9453bcdea20
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=19404
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="GetPer",CTV 3A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=6786
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="GetPer",CTV 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9182
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="GetPer",CTV 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9183
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="GetPer",SPOTV 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=17139
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="GetPer",SPOTV 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=17140
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="GetPer",BEINS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=6299
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="GetPer",BEIN 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=17884
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="GetPer",BEIN 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=17875
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="GetPer",BEIN 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=6317
+
 #EXTINF:-1 group-logo="" group-title="CHAMP_MS", CTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -11191,400 +11289,11 @@ http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1211484
 http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1211483
 #EXTINF:-1 group-title="*#AS | AUSTRALIA" tvg-logo="https://lo1.in/aust/stan.png" ,AU| STAN SPORT AU EVENT 30 [EVENT ONLY]
 http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1211482
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/abcaus.png" ,✦●✦ PHILIPPINE✦●✦
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/73912
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/abcaus.png" ,PH| TV 5 PHIL HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/214064
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/cinmo.png" ,PH| CINEMA ONE HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/173383
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/axn.png" tvg-id="axn.ph" ,PH| AXN HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/173382
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/pbo.png" tvg-id="pbo.ph" ,PH| PBO HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/173381
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/oneph.png" ,PH| ONE PH HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/173380
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/bs1.png" ,PH| BEIN SPORTS 1 HD
+
+#EXTINF:-1 group-title="*#AS | AUSTRALIA" tvg-logo="https://lo1.in/phil/bs1.png" ,PH| BEIN SPORTS 1 HD
 http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/34632
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/bs2.png" ,PH| BEIN SPORTS 2 HD
+#EXTINF:-1 group-title="*#AS | AUSTRALIA" tvg-logo="https://lo1.in/phil/bs2.png" ,PH| BEIN SPORTS 2 HD
 http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/34633
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/cnnet.png" ,PH| CARTOON NETWORK HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/97979
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/clscmov.png" ,PH| CLASSIC MOVIES HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/97978
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/gctv.png" ,PH| GREAT COMMISSION TV (GCTV) HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/149857
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/uk/fodnet.png" ,PH| FOOD NETWORK HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/97977
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/abcaus.png" ,PH| DZRH NEWS FHD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1303428
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/abcaus.png" ,PH| KNOWLEDGE CHANNEL
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1059186
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/uk/natgch.png" tvg-id="nationalgeographic.ph" ,PH| NAT GEO HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/97976
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/uk/tlc.png" ,PH| TLC HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/97975
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/abcaus.png" ,PH| KAPAMILYA CHANNEL
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1081577
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/travelch.png" ,PH| TRAVEL HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/97974
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/aplanet.png" ,PH| ANIMAL PLANET
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/97973
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/anc.png" tvg-id="anc.ph" ,PH| ANC HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/97972
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/gma7.png" tvg-id="gmalife.ph" ,PH| GMA LIFE
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/34634
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/gmalf.png" tvg-id="gmanews.ph" ,PH| GMA NEWS TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/34635
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/gmapino0.png" tvg-id="gmapinoy.ph" ,PH| GMA PINOY TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/34636
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/lifestyle.png" ,PH| LIFESTYLE NETWORK
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/34637
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/abcaus.png" ,PH| One News FHD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/2398
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/osport.png" ,PH| ONE SPORT HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/70682
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/osport.png" ,PH| ONE SPORT+ HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/18953
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/tfc.png" tvg-id="tfc.ph" ,PH| TFC HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/70681
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/tfc.png" ,PH| TFC CANADA
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1264911
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/abcaus.png" ,PH| PBA RUSH FHD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/2397
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/mx.png" ,PH| MYX
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12732
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" ,PH| TELERADYO
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/811446
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" ,PH| K-MOVIES
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/811447
-#EXTINF:-1 group-title="*#AS | PHILIPPINE" tvg-logo="https://lo1.in/phil/abcaus.png" ,PH| UAAP Varsity Channel
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1076593
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MALIMAR LAO AND THAI MUSIC
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/30149
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| LOOK THOONG TV HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/30264
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,✦●✦ THAILLAND ✦●✦
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/188230
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/30.png" ,TH| 30A MUSIC HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96764
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| 69 TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12682
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/pic.png" ,TH| &PICTURES FHD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/173558
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| AMARIN 34 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12693
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| ADL USA TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12694
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| AIR TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12695
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| AS TV THAI HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12696
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/bbw.png" ,TH| BBC WORLD NEWS HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/173557
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| BTV NEWS KHMER
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12691
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| BRIAN TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12692
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| BAYON HD KHMER
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12697
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/ch5.png" ,TH| CHANNEL 5 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96744
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/ch1.png" tvg-id="channel8.th" ,TH| CHANNEL 8
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96737
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| CVA HMONG FRESNO
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12687
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| CTV 8 KHMER
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12688
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| CTN KHMER
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12689
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| CAMBODIA TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12690
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| DAO LANE XANG
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12686
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/des.png" ,TH| DESI CHANNEL HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96765
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| DOPA CHANNEL
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12685
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlt.png" ,TH| DLTV1 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96749
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv4.png" ,TH| DLTV2 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96750
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv5.png" ,TH| DLTV3 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96751
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv6.png" ,TH| DLTV4 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96752
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv7.png" ,TH| DLTV5 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96753
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv12.png" ,TH| DLTV6 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96754
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/dl1.png" ,TH| DLTV7 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96755
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/dl2.png" ,TH| DLTV8 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96756
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/dl3.png" ,TH| DLTV9 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96757
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/dl10.png" ,TH| DLTV10 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96758
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv.png" ,TH| DLTV11 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96759
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv1.png" ,TH| DLTV12 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96760
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/clv2.png" ,TH| DLTV13 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96761
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv2.png" ,TH| DLTV14 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96762
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/dlv3.png" ,TH| DLTV15 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96763
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| ETV KHMER
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12684
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| GOOD IDEA TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5450
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| Green channel
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12679
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| GMM 25
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12680
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| GMM ONE THAI HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12681
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/him.png" ,TH| HITS MOVIES HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/173559
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| HOUNG FA
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12674
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| HMONG USA TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12675
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| HMONG STAR TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12676
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| HMONG LAO TV  HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12677
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| HMONG FRESNO TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12678
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/ist.png" ,TH| IS TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96738
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| ISTV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12673
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| JOO MUSIC
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12683
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| KHOMSANH TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12672
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/lov.png" ,TH| LOVE NATURE HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/173556
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| LAOS PLANET TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/31796
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| LONE SINH LAO TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/31696
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| LAO TV FREE ASIA
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12662
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| LAO THAI TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12663
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| LAO SV TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12664
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| LAO PSTV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12665
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| LAO PEOPLE POWER
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12666
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| LAO NATIONAL TV 3
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12667
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| LAO NATIONAL TV 1
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12668
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| LAO CHAMPA TV 3
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12669
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| LAO CHAMPA TV 1
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12670
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| LAO AMERICAN
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12671
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| LS TV 1
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/30192
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MVTV V2H12 TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/6681
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MVHUB PLUS
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5456
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/mco.png" tvg-id="mcotfamily.th" ,TH| MCOT HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96747
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MY TV KHMER
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/6099
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MYANMAR MRTV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/6101
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MV LAO
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/6103
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MSJ TV KHMER
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/6891
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MVTV V2H2
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12698
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MVTV V2H9
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12699
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MVTV RUKTAE HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12700
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MVTV V2H2 2
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12701
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MVTV V2H14
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12702
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MVTV MIXMAJOR HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12703
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MVTV V2H11
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12704
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MVTV MVLAO HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12705
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MVTV V2H15
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12706
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MVTV TVB
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12707
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MVTV THAIBAAN HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12708
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MVTV TVD MONO
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12709
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| MVTV V2H13
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/12710
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/mvtv.png" ,TH| MVTV HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96739
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/nf.png" ,TH| NFL HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/173560
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/nba0.png" ,TH| NBA HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/173561
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| NRWISION HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5453
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| NBT WORLD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5455
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/nw.png" ,TH| NEWS 1 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/173555
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| NAT TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/4134
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| NING TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/6092
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| NATION NEWS
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/6102
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| OY LAO TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5852
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| OH MUANG LAO HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/6091
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| PPTV HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5703
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| PNTV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5785
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| PNN TV HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5828
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/reb.png" ,TH| RED BULL TV HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96741
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/rem.png" ,TH| RETRO MUSIC TV SD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96740
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/sk.png" ,TH| SKY RACING 2 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96743
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/sy.png" ,TH| SKY RACING 1 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96742
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| SUWANNABHUMI TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5454
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| SIENG KHAEN LAO TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5219
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| SIENG KASEEP TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5227
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| SEA TV NEWS
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5285
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/ger/tva.png" ,TH| TVA
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5452
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" tvg-id="pbswqed.us" ,TH| TATV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5212
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| TEST 43
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5451
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| TV 3 Cambodia HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1248
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| TV3 SD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1265
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" tvg-id="skysportaustria.at" ,TH| TRUE 4 THAI
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/2776
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| TV 5 THAI HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1263
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| TV 5 KHMER
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1264
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| TV9 KHMER
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1262
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| THAI 8 HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5209
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| TVK KHMER
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1261
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| TEA TV KHMER
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5210
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| TEA TV HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5211
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/th1.png" ,TH| THAIPBS FHD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96745
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| Thairath 32
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/5206
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/thairath1.png" tvg-id="thairath.th" ,TH| THAIRATH
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96748
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| UNIQUELY THAI
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/33608
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| WHITE CHANNEL HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/6839
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| VATI LAO
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96581
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png" ,TH| Yateem TV
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/101843
-#EXTINF:-1 group-title="*#AS | THAILLAND" tvg-logo="https://lo1.in/tha/workp.png" tvg-id="workpoint.th" ,TH| WORK POINT HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/96746
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,✦●✦ VIETNAM✦●✦
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/97957
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| VTC7
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3291
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| VTV1
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3294
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| HTVC GIA ĐÌNH
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3293
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| HTVC PHỤ NỮ
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3292
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| BTV HD (BẮC NINH)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3290
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| ĐNRTV2 HD (ĐỒNG NAI)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3289
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| THĐT1 (ĐỒNG THÁP)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3288
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| THGL (GIA LAI)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3287
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| WOMAN
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3286
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| THP HD (HẢI PHÒNG)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3285
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| LTV (LÂM ĐỒNG)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3284
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| THLC (LÀO CAI)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3283
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| NTV (NAM ĐỊNH)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3282
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| PTV HD (PHÚ THỌ)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3281
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| QTV1 (QUẢNG NINH)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3280
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| STV1 (SÓC TRĂNG)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3279
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| STV (SƠN LA)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3278
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| TTV11 HD (TÂY NINH)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3277
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| TN1 HD (THÁI NGUYÊN)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3276
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| TTV (THANH HÓA)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3275
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| THTV HD (TRÀ VINH)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3274
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| YTV (YÊN BÁI)
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/3273
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| HA GIANG
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/102535
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| TRA VINH HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/102536
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| BBC EARTH HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/102537
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| BBC NEWS
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/102538
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| NHK WORLD HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/102539
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| QUOC PHONG VN
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/102540
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| ANIMAL PLANET HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/102541
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| DISCOVERY ASIA HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/102542
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| DISCOVERY HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/102543
-#EXTINF:-1 group-title="*#AS | VIETNAM" tvg-logo="https://lo1.in/vtm/flg.png" ,VIETNAM| BABY FIRST HD
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/102544
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ID: AFN/Asian Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="*$Indonesia",ID: AFN/Asian Food Network
