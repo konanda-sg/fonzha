@@ -1,21 +1,3 @@
-<!DOCTYPE>
-	
-<html>
-<head>
-<link rel="icon" type="image/png" href="">
-<script type="text/javascript">
-window.location = "https://saweria.co/SpyBer2"
-</script>
-</head>
-</html>
-
-<noscript>
-
-@ottnav
-
-#EXTM3U billed-msg="PL INI GRATIS(SpyBer)..MOHON Jangan diperjualbelikan dan diSalahGunakan YA...... TERIMAKASIH...!!!"
-
-
 #EXTINF:-1  tvg-id="576059" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250" group-title="SEAGAMES", SEA Games CH01 sg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
@@ -49,31 +31,31 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/da31f135bd6c4fe0b7dc4262436277fb/ind
 #EXTINF:-1 group-title="EVENT ALTERNATIVE" tvg-logo="https://raw.githubusercontent.com/Jonjoni123/logo/refs/heads/main/eventbar.jpg", EVENT 1 th
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.108 Mobile Safari/537.36
 #EXTVLCOPT:http-Referer=https://demo.zplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/7hhnrp7jcd8yhgozlodtn/Event.m3u8?rlkey=0v16t8nzl7ubjahcsgj8be1w6&dl=0|Referer=https://demo.crunchyrolll.xyz/
+https://dl.dropboxusercontent.com/scl/fi/7hhnrp7jcd8yhgozlodtn/Event.m3u8?rlkey=0v16t8nzl7ubjahcsgj8be1w6&dl=0
 
 #EXTINF:-1 group-title="EVENT ALTERNATIVE" tvg-logo="https://raw.githubusercontent.com/Jonjoni123/logo/refs/heads/main/eventbar.jpg", EVENT 2 th
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.108 Mobile Safari/537.36
 #EXTVLCOPT:http-Referer=https://demo.zplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0wyehmctwvbzvvapip3eu/Event2.m3u8?rlkey=o1yiu1m4zdpwx16fqv3tr09y0&dl=0|Referer=https://demo.crunchyrolll.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0wyehmctwvbzvvapip3eu/Event2.m3u8?rlkey=o1yiu1m4zdpwx16fqv3tr09y0&dl=0
 #EXTINF:-1 group-title="EVENT ALTERNATIVE" tvg-logo="https://raw.githubusercontent.com/Jonjoni123/logo/refs/heads/main/eventbar.jpg", EVENT 3 th 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.108 Mobile Safari/537.36
 #EXTVLCOPT:http-Referer=https://demo.crunchyrolll.xyz/
-https://dl.dropboxusercontent.com/scl/fi/l6z256uhcmk3mhdn3vn52/Event3.m3u8?rlkey=odpd8t63ruuajcerciybh7ptp&dl=0|Referer=https://demo.crunchyrolll.xyz/
+https://dl.dropboxusercontent.com/scl/fi/l6z256uhcmk3mhdn3vn52/Event3.m3u8?rlkey=odpd8t63ruuajcerciybh7ptp&dl=0
 #EXTINF:-1 group-title="EVENT ALTERNATIVE" tvg-logo="https://raw.githubusercontent.com/Jonjoni123/logo/refs/heads/main/eventbar.jpg", EVENT 4 ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.108 Mobile Safari/537.36
 #EXTVLCOPT:http-Referer=https://demo.crunchyrolll.xyz/
-https://dl.dropboxusercontent.com/scl/fi/zf4zncxf51mg69t848g7e/Event4.m3u8?rlkey=kbnd7kaek3ebl7qhqji8jrx5o&dl=0|Referer=https://ishikawa-wh.com/
+https://dl.dropboxusercontent.com/scl/fi/zf4zncxf51mg69t848g7e/Event4.m3u8?rlkey=kbnd7kaek3ebl7qhqji8jrx5o&dl=0
 #EXTINF:-1 group-title="EVENT ALTERNATIVE" tvg-logo="https://raw.githubusercontent.com/Jonjoni123/logo/refs/heads/main/eventbar.jpg", EVENT 5 ca 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.108 Mobile Safari/537.36
 #EXTVLCOPT:http-Referer=https://demo.crunchyrolll.xyz/
-https://dl.dropboxusercontent.com/scl/fi/a15bacurr2g38pf0np07a/Event5.m3u8?rlkey=zcls3p1myylmcq99knxsraoca&dl=0|Referer=https://ishikawa-wh.com/
+https://dl.dropboxusercontent.com/scl/fi/a15bacurr2g38pf0np07a/Event5.m3u8?rlkey=zcls3p1myylmcq99knxsraoca&dl=0
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/seWdFHa.jpg" group-title="EVENT ALTERNATIVE",TIMNAS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.108 Mobile Safari/537.36
-https://dl.dropboxusercontent.com/scl/fi/t4uhoenpe3wbxstfx1nyn/Bola_id.m3u8?rlkey=7cgw7dyihopvevj29lwvz9ipo&dl=0|Referer=https://demo.crunchyrolll.xyz/
+https://dl.dropboxusercontent.com/scl/fi/t4uhoenpe3wbxstfx1nyn/Bola_id.m3u8?rlkey=7cgw7dyihopvevj29lwvz9ipo&dl=0
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/seWdFHa.jpg" group-title="EVENT ALTERNATIVE",TIMNAS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.108 Mobile Safari/537.36
-https://dl.dropboxusercontent.com/scl/fi/gcbui4vx9zwd30eepb8fl/Bola_id2.m3u8?rlkey=g5hi61tzyfbro76l5kn1kkhmn&dl=0|Referer=https://demo.crunchyrolll.xyz/
+https://dl.dropboxusercontent.com/scl/fi/gcbui4vx9zwd30eepb8fl/Bola_id2.m3u8?rlkey=g5hi61tzyfbro76l5kn1kkhmn&dl=0
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Jonjoni123/logo/refs/heads/main/livoli.jpg" group-title="EVENT ALTERNATIVE", VOLLY 
 https://dl.dropboxusercontent.com/scl/fi/de01yvbjejev7v7xmoas8/Moji.m3u8?rlkey=2jzngk9npai868gpqnb6dfowk&dl=0
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Jonjoni123/logo/refs/heads/main/livoli.jpg" group-title="EVENT ALTERNATIVE", VOLLY 2
@@ -101,43 +83,63 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 #EXTINF:-1  tvg-logo="https://i.imgur.com/e3RTub2.jpg" group-title="EVENT ALTERNATIVE", BRI Event id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-https://dl.dropboxusercontent.com/scl/fi/t4uhoenpe3wbxstfx1nyn/Bola_id.m3u8?rlkey=7cgw7dyihopvevj29lwvz9ipo&dl=0|Referer=https://demo.crunchyrolll.xyz/
+https://dl.dropboxusercontent.com/scl/fi/t4uhoenpe3wbxstfx1nyn/Bola_id.m3u8?rlkey=7cgw7dyihopvevj29lwvz9ipo&dl=0
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/e3RTub2.jpg" group-title="EVENT ALTERNATIVE", BRI Event 2 th
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referer=https://www.rctiplus.com/
-https://dl.dropboxusercontent.com/scl/fi/gcbui4vx9zwd30eepb8fl/Bola_id2.m3u8?rlkey=g5hi61tzyfbro76l5kn1kkhmn&dl=0|Referer=https://demo.crunchyrolll.xyz/
+https://dl.dropboxusercontent.com/scl/fi/gcbui4vx9zwd30eepb8fl/Bola_id2.m3u8?rlkey=g5hi61tzyfbro76l5kn1kkhmn&dl=0
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/e3RTub2.jpg" group-title="EVENT ALTERNATIVE", BRI Event 3 ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-Referer=https://demo.crunchyrolll.xyz/
-https://dl.dropboxusercontent.com/scl/fi/4llhjn8bqfrd0qdamdquk/Bola_id3.m3u8?rlkey=oe9arf6004slorqqthna9s887&dl=0|Referer=https://ishikawa-wh.com/
+https://dl.dropboxusercontent.com/scl/fi/4llhjn8bqfrd0qdamdquk/Bola_id3.m3u8?rlkey=oe9arf6004slorqqthna9s887&dl=0
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/e3RTub2.jpg" group-title="EVENT ALTERNATIVE", BRI Event 4 ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-Referer=https://demo.crunchyrolll.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0441yq8klbefvz01l01o1/Bola_id4.m3u8?rlkey=a850b10af3mrwltweljcl7386&dl=0|Referer=https://ishikawa-wh.com/
+https://dl.dropboxusercontent.com/scl/fi/0441yq8klbefvz01l01o1/Bola_id4.m3u8?rlkey=a850b10af3mrwltweljcl7386&dl=0
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="EVENT BWF" tvg-logo="https://static.vebotv.app/leagues/badminton.png",BWF COURT 1 ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-Referer=https://demo.crunchyrolll.xyz/
-https://dl.dropboxusercontent.com/scl/fi/nb5acw49jb1ef4uj5f3w9/Bad1.m3u8?rlkey=akihox4aavfkavlrumxqhnok1&dl=0|Referer=https://demo.crunchyrolll.xyz/
+https://dl.dropboxusercontent.com/scl/fi/nb5acw49jb1ef4uj5f3w9/Bad1.m3u8?rlkey=akihox4aavfkavlrumxqhnok1&dl=0
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="EVENT BWF" tvg-logo="https://static.vebotv.app/leagues/badminton.png",BWF COURT 2 ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-Referer=https://demo.crunchyrolll.xyz/
-https://dl.dropboxusercontent.com/scl/fi/ub8q4u60wa15dmj8puxkc/Bad2.m3u8?rlkey=qiri4j36o3izx6pyf66nh8bb8&dl=0|Referer=https://demo.crunchyrolll.xyz/
+https://dl.dropboxusercontent.com/scl/fi/ub8q4u60wa15dmj8puxkc/Bad2.m3u8?rlkey=qiri4j36o3izx6pyf66nh8bb8&dl=0
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="EVENT BWF" tvg-logo="https://static.vebotv.app/leagues/badminton.png",BWF COURT 3 ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-Referer=https://demo.crunchyrolll.xyz/
-https://dl.dropboxusercontent.com/scl/fi/4l32xeyy3tijwy0panaqh/Bad3.m3u8?rlkey=5854z7vh04q825aes99bmq8ck&dl=0|Referer=https://demo.crunchyrolll.xyz/
+https://dl.dropboxusercontent.com/scl/fi/4l32xeyy3tijwy0panaqh/Bad3.m3u8?rlkey=5854z7vh04q825aes99bmq8ck&dl=0
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="EVENT BWF" tvg-logo="https://static.vebotv.app/leagues/badminton.png",BWF COURT 4 tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-Referer=https://demo.crunchyrolll.xyz/
-https://dl.dropboxusercontent.com/scl/fi/7seuayagsupp3ddk3cwhj/Bad4.m3u8?rlkey=sz26s564et4d3h0ki83zv4dto&dl=0|Referer=https://demo.crunchyrolll.xyz/
+https://dl.dropboxusercontent.com/scl/fi/7seuayagsupp3ddk3cwhj/Bad4.m3u8?rlkey=sz26s564et4d3h0ki83zv4dto&dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="EVENT BWF" tvg-logo="https://static.vebotv.app/leagues/badminton.png",BWF COURT 1 caa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-Referer=https://demo.crunchyrolll.xyz/
+https://dl.dropboxusercontent.com/scl/fi/nb5acw49jb1ef4uj5f3w9/Bad1.m3u8?rlkey=akihox4aavfkavlrumxqhnok1&dl
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="EVENT BWF" tvg-logo="https://static.vebotv.app/leagues/badminton.png",BWF COURT 2 caa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-Referer=https://demo.crunchyrolll.xyz/
+https://dl.dropboxusercontent.com/scl/fi/ub8q4u60wa15dmj8puxkc/Bad2.m3u8?rlkey=qiri4j36o3izx6pyf66nh8bb8&dl
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="EVENT BWF" tvg-logo="https://static.vebotv.app/leagues/badminton.png",BWF COURT 3 caa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-Referer=https://demo.crunchyrolll.xyz/
+https://dl.dropboxusercontent.com/scl/fi/4l32xeyy3tijwy0panaqh/Bad3.m3u8?rlkey=5854z7vh04q825aes99bmq8ck&dl
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="EVENT BWF" tvg-logo="https://static.vebotv.app/leagues/badminton.png",BWF COURT 4 tva
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-Referer=https://demo.crunchyrolll.xyz/
+https://dl.dropboxusercontent.com/scl/fi/7seuayagsupp3ddk3cwhj/Bad4.m3u8?rlkey=sz26s564et4d3h0ki83zv4dto&dl
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jonjoni123/logo/refs/heads/main/vipsport.jpg" group-title="VIPSPORTS EVENT", VIPSPORT 1 Ukr
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/
@@ -2824,11 +2826,6 @@ https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_1/live.livx?i
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_2/live.livx?indexMode&amp;dvr=7200000
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/160/160/0/0/7391790707734.png|worldtv2" group-title="⚽ SPORTS", Golf Channel
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2947,7 +2944,6 @@ https://bd-streams.site/crx/master.php?id=skysare|Referer=https://bd-streams.sit
 
 #EXTINF:-1 tvg-id="skysfor1" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008468637.png" group-title="⚽ SPORTS" , Sky Sports F1
 https://bd-streams.site/crx/master.php?id=skysfor1|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-
 
 #EXTINF:-1 tvg-id="skysare" tvg-name="Sky Sports Arena" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829327.png" group-title="⚽ SPORTS" , Sky Sports Arena
 https://bd-streams.site/crx/master.php?id=skysare|Referer=https://bd-streams.site/crx/master.php?id=skyscric
@@ -3493,7 +3489,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
-
 
 #EXTINF:-1 tvg-id="tap-sports" tvg-logo="https://i.imgur.com/HWbSPI9.png" group-title="Cignal Sports",TAP Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4102,10 +4097,10 @@ https://raw.githubusercontent.com/Jonjoni123/m3u8/refs/heads/main/nowsports6.m3u
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/Jonjoni123/m3u8/refs/heads/main/nowsports7.m3u8
 
-#EXTINF:-1 tvg-id="RTMK05" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-title=" SPORTS (ASTRO GO)",SUKAN RTM
+#EXTINF:-1 tvg-id="RTMK05" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-title="SPORTS (ASTRO GO)",SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
-#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.ibb.co/p24tp0P/unifisports.png" group-title=" SPORTS (ASTRO GO)", UNIFI SPORTS 🇲🇾
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.ibb.co/p24tp0P/unifisports.png" group-title="SPORTS (ASTRO GO)", UNIFI SPORTS 🇲🇾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
@@ -4116,18 +4111,18 @@ https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 #EXTINF:-1 tvg-group="" tvg-id="OKEY" tvg-name="Okey Tv" group-title=" SPORTS (ASTRO GO)" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey TV
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png" group-title=" SPORTS (ASTRO GO)",Unifi Sports m
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png" group-title="SPORTS (ASTRO GO)",Unifi Sports m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.al🇵🇭a
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=Y2M1YzUwMTEtMWYxYi0zYjAxLTg2M2YtZjJmZTA2MWIyM2Nh
 https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" group-title=" SPORTS (ASTRO GO)",1 TV SUKAN
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" group-title="SPORTS (ASTRO GO)",1 TV SUKAN
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=m3u8
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-#EXTINF:-1 tvg-id="CH801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title=" SPORTS (ASTRO GO)",ASTRO ARENA 
+#EXTINF:-1 tvg-id="CH801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="SPORTS (ASTRO GO)",ASTRO ARENA 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://dl.dropboxusercontent.com/scl/fi/o75jqmy66701sz01o9u0s/arena.m3u8?rlkey=9kl4nordyk2cix9di4s7t22zo&dl=0
 
@@ -4138,10 +4133,10 @@ https://dl.dropboxusercontent.com/scl/fi/o75jqmy66701sz01o9u0s/arena.m3u8?rlkey=
 https://dl.dropboxusercontent.com/scl/fi/m850dhn51323awty0kcc5/arena2.m3u8?rlkey=7ys08p4em182wo38sdws1rwfj&dl=0
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title=" SPORTS (ASTRO GO)",Astro Arena Bola
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="SPORTS (ASTRO GO)",Astro Arena Bola
 https://dl.dropboxusercontent.com/scl/fi/21v74m56yv6io0bst18oi/Arenabola.m3u8?rlkey=z4oj2lpiyikniyx2vshj6bakq&dl=0
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title=" SPORTS (ASTRO GO)",Arena Bola FHD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="SPORTS (ASTRO GO)",Arena Bola FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4150,10 +4145,10 @@ https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title=" SPORTS (ASTRO GO)",Astro Arena Bola 2
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="SPORTS (ASTRO GO)",Astro Arena Bola 2
 https://dl.dropboxusercontent.com/scl/fi/wgxyd13qbphalhglcv2n9/Arenabola2.m3u8?rlkey=w9klpotifbgu05z1ev60dymbt&dl=0
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title=" SPORTS (ASTRO GO)",Arena Bola 2
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="SPORTS (ASTRO GO)",Arena Bola 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4177,14 +4172,13 @@ https://dl.dropboxusercontent.com/scl/fi/na60s4qjtry1yp4hc3ihh/Badmin2.m3u8?rlke
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
 https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badminton2hd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
-
 #EXTINF:-1 tvg-id="814" group-title=" SPORTS (ASTRO GO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png",ASTRO FOOTBALL
 #KODIPROP:inputstream.adaptive.license_type=m3u8
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 https://dl.dropboxusercontent.com/scl/fi/fvmlubrpsz62feuvcutxu/asspfoot.m3u8?rlkey=ewph2mk93bpw44va9k9b9e6p9&dl=0
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="817.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png" group-title=" SPORTS (ASTRO GO)",Astro Sports Plus
+#EXTINF:-1 tvg-id="817.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png" group-title="SPORTS (ASTRO GO)",Astro Sports Plus
 https://dl.dropboxusercontent.com/scl/fi/hhevgde5jvg66280w8cmo/asspplus.m3u8?rlkey=div8u41kg3kexdjpc7d95821d&dl=0
 
 #EXTINF:-1 group-logo="" group-title=" SPORTS (ASTRO GO)" tvg-id="814.astro" tvg-logo="https://get.perfecttv.net/logo/sportplus.png" group-logo="",810 Sports Plus HD
@@ -4193,10 +4187,10 @@ https://dl.dropboxusercontent.com/scl/fi/hhevgde5jvg66280w8cmo/asspplus.m3u8?rlk
 https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sportplushd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title=" SPORTS (ASTRO GO)",Astro Grandstand
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="SPORTS (ASTRO GO)",Astro Grandstand
 https://dl.dropboxusercontent.com/scl/fi/w3jo081tmwfa13a7v57sp/asspgrand.m3u8?rlkey=tlfwevxk1un8okrf6whrlantx&dl=0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/grandstand.png" group-title=" SPORTS (ASTRO GO)",807 Grandstand HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/grandstand.png" group-title="SPORTS (ASTRO GO)",807 Grandstand HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4205,11 +4199,11 @@ https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title=" SPORTS (ASTRO GO)",Astro Premier League
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="SPORTS (ASTRO GO)",Astro Premier League
 https://dl.dropboxusercontent.com/scl/fi/fzv83uhc3le3gg1iycr6d/asspl1.m3u8?rlkey=5gn6tidihm7oe1rxhf6w1rp60&dl=0
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title=" SPORTS (ASTRO GO)",Astro Premier League 2 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="SPORTS (ASTRO GO)",Astro Premier League 2 
 https://dl.dropboxusercontent.com/scl/fi/24mzwdyfd7dtfdknts544/asspl2.m3u8?rlkey=boirtuwomtqgahakuul3lc47h&dl=0
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro" group-title=" SPORTS (ASTRO GO)"  tvg-logo="https://get.perfecttv.net/logo/premierleague2.png",806 EPL2 HD
