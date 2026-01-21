@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="🇮🇩VDO",V
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=203&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=203&type=dash
-
-#EXTINF:-1 tvg-logo="" group-title="🇮🇩VDO",INDOSIAR
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-
 #EXTINF:-1 tvg-logo="" group-title="🇮🇩VDO",TRANS TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -27,6 +15,18 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
 http://xtv.ooo:8080/Faisalfb007/4328641/351040
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="🇮🇩VDO",ID: Trans TV
 http://xtv.ooo:8080/Faisalfb007/4328641/351041
+
+#EXTINF:-1 tvg-logo="" group-title="🇮🇩VDO",INDOSIAR
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="🇮🇩VDO",SCTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-logo="" group-title="🇮🇩VDO",RCTI
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -52,12 +52,6 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=778&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="🇮🇩VDO",SCTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
-
 #EXTINF:-1 tvg-logo="" group-title="🇮🇩VDO",INEWS
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -76,23 +70,11 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="🇮🇩VDO",KOMPAS TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=874&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=874&type=dash
-
 #EXTINF:-1 tvg-logo="" group-title="🇮🇩VDO",MOJI TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
-
-#EXTINF:-1 tvg-logo="" group-title="🇮🇩VDO",RTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=dash
 
 #EXTINF:-1 tvg-logo="" group-title="🇮🇩VDO",TV ONE
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -100,6 +82,19 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=dash
 
+#EXTINF:-1 tvg-logo="" group-title="🇮🇩VDO",KOMPAS TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=874&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=874&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="🇮🇩VDO",RTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=dash
+
+#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="🇮🇩VDO-CTV-NG",CTV 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -218,25 +213,19 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=19543&type=dash
 http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34535
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO PL 2
 http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34534
-#EXTINF:-1 tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/811_300.png" group-title="ASTR026",Astro PL 1 HD
-http://xtv.ooo:8080/Faisalfb007/4328641/388697
-#EXTINF:-1 tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="ASTR026",Astro PL 2 HD
-http://xtv.ooo:8080/Faisalfb007/4328641/388698
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.openbinacle.com/openbinacle/tv/astro-supersport-3/image/astrosupersport3.jpg" group-title="ASTR026",Astro PL 3 HD
-http://xtv.ooo:8080/Faisalfb007/4328641/388699
-#EXTINF:-1 tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="ASTR026",Astro PL 4 HD
-http://xtv.ooo:8080/Faisalfb007/4328641/388700
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", SPOTV 1 (php)
 http://96.44.160.246:9999/smt.php?id=go_spotv 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", SPOTV 2 (php)
 http://96.44.160.246:9999/smt.php?id=go_spotv2
+
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ASTR026", Astro Beinsports 1(php)
 http://96.44.160.246:9999/smt.php?id=Astrobein1
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ASTR026", Astro Beinsports 2(php)
 http://96.44.160.246:9999/smt.php?id=Astrobein2
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ASTR026", Astro Beinsports 3(php)
 http://96.44.160.246:9999/smt.php?id=Astrobein3
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="ASTR026",ASTRO PL (php)
 http://96.44.160.246:9999/smt.php?id=Assp1
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="ASTR026",ASTRO PL 2 (php)
@@ -247,11 +236,11 @@ http://96.44.160.246:9999/smt.php?id=Assp3
 http://96.44.160.246:9999/smt.php?id=Assp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="ASTR026",ASTRO SPORT5 (php)
 http://96.44.160.246:9999/smt.php?id=Assp5
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="ASTR026",ASTRO BADMINTON 1 (php)
 http://96.44.160.246:9999/smt.php?id=go_badminton1
 #EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="ASTR026",ASTRO BADMINTON 2 (php)
 http://96.44.160.246:9999/smt.php?id=go_badminton2
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ASTR026",Astro PL 1 (MLY)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1163985.ts
@@ -259,6 +248,7 @@ http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1163985.ts
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1163986.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ASTR026",Arena Bola (MLY)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1163987.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", ASTRO ARENA BOLA 1
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1034247.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", ASTRO PL 1 HD
@@ -271,6 +261,7 @@ http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1157.m3u8
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1160.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", ASTRO PL 5 HD
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1229.m3u8
+
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTR026",SPORTS : ASTRO PL 1
 http://mains.services/live/bshorty/Zv5le07a0J/908d1263-42e6-4d4d-becb-ff4c3f2a0e2d.ts
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTR026",SPORTS : ASTRO PL 2
@@ -343,45 +334,74 @@ http://xtv.ooo:8080/Faisalfb007/4328641/388709
 http://xtv.ooo:8080/Faisalfb007/4328641/388710
 #EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s92442_ll_h3_aa.png" group-title="ASTR026",BeIn Sports 3 HD
 http://xtv.ooo:8080/Faisalfb007/4328641/388711
+#EXTINF:-1 tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/811_300.png" group-title="ASTR026",Astro PL 1 HD
+http://xtv.ooo:8080/Faisalfb007/4328641/388697
+#EXTINF:-1 tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="ASTR026",Astro PL 2 HD
+http://xtv.ooo:8080/Faisalfb007/4328641/388698
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.openbinacle.com/openbinacle/tv/astro-supersport-3/image/astrosupersport3.jpg" group-title="ASTR026",Astro PL 3 HD
+http://xtv.ooo:8080/Faisalfb007/4328641/388699
+#EXTINF:-1 tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="ASTR026",Astro PL 4 HD
+http://xtv.ooo:8080/Faisalfb007/4328641/388700
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.spotv.net/images/intro/intro_logo.png" group-title="ASTR026",SPOTV 2
 http://xtv.ooo:8080/Faisalfb007/4328641/388703
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.kyungmin.ac.kr/DATA/board/640/16002360975161AA2TZ.jpg" group-title="ASTR026",SPOTV HD
 http://xtv.ooo:8080/Faisalfb007/4328641/388702
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/692/840/png-clipart-astro-supersport-television-logo-astro-malaysia-holdings-alfalfa-miscellaneous-purple.png" group-title="ASTR026",Astro SuperSport Plus HD
-http://xtv.ooo:8080/Faisalfb007/4328641/388701
-#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/692/840/png-clipart-astro-supersport-television-logo-astro-malaysia-holdings-alfalfa-miscellaneous-purple.png" group-title="ASTR026",Astro 04
-http://xtv.ooo:8080/Faisalfb007/4328641/388704
-#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/692/840/png-clipart-astro-supersport-television-logo-astro-malaysia-holdings-alfalfa-miscellaneous-purple.png" group-title="ASTR026",Astro 05
-http://xtv.ooo:8080/Faisalfb007/4328641/388705
-#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/692/840/png-clipart-astro-supersport-television-logo-astro-malaysia-holdings-alfalfa-miscellaneous-purple.png" group-title="ASTR026",Astro 06
-http://xtv.ooo:8080/Faisalfb007/4328641/388706
-#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/692/840/png-clipart-astro-supersport-television-logo-astro-malaysia-holdings-alfalfa-miscellaneous-purple.png" group-title="ASTR026",Astro 07
-http://xtv.ooo:8080/Faisalfb007/4328641/388707
-#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/692/840/png-clipart-astro-supersport-television-logo-astro-malaysia-holdings-alfalfa-miscellaneous-purple.png" group-title="ASTR026",Astro 08
-http://xtv.ooo:8080/Faisalfb007/4328641/388708
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 25
-http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34525
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 26
-http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34526
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 27
-http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34527
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 28
-http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34528
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 29
-http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34529
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 30
-http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34530
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO FOOTBALL
 http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34531
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 32
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO W-SPORTS
 http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34532
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO GRANDSTAND
 http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34533
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 34
-http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34534
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 35
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO PL1
 http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34535
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO PL2
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34534
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ASTR026",Astro Badminton FHD
+http://xtv.ooo:8080/Faisalfb007/4328641/388701
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ASTR026",Astro Cricket
+http://xtv.ooo:8080/Faisalfb007/4328641/388706
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ASTR026",Astro Arena
+http://xtv.ooo:8080/Faisalfb007/4328641/388707
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ASTR026",Astro Arena 2
+http://xtv.ooo:8080/Faisalfb007/4328641/388708
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ASTR026",Astro 04
+http://xtv.ooo:8080/Faisalfb007/4328641/388704
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ASTR026",Astro 05
+http://xtv.ooo:8080/Faisalfb007/4328641/388705
+#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s92442_ll_h3_aa.png" group-title="ASTR026",Astro 12
+http://xtv.ooo:8080/Faisalfb007/4328641/388712
+#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s92442_ll_h3_aa.png" group-title="ASTR026",Astro 16
+http://xtv.ooo:8080/Faisalfb007/4328641/388716
+#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s92442_ll_h3_aa.png" group-title="ASTR026",Astro 13
+http://xtv.ooo:8080/Faisalfb007/4328641/388713
+#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s92442_ll_h3_aa.png" group-title="ASTR026",Astro 14
+http://xtv.ooo:8080/Faisalfb007/4328641/388714
+#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s92442_ll_h3_aa.png" group-title="ASTR026",Astro 15
+http://xtv.ooo:8080/Faisalfb007/4328641/388715
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 25
+https://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34525
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 26
+https://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34526
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 27
+https://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34527
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 28
+https://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34528
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 29
+https://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34529
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 30
+https://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34530
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 36
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34536
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 37
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34537
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 38
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34538
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 39
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34539
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 40
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34540
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_425_305" group-title="$HK | NOW SPORTS (VIP)",HK: NOW Sports 4K 1
 http://xtv.ooo:8080/Faisalfb007/4328641/381396
@@ -1996,7 +2016,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17875&type=dash
 https://nextgenz.my.id/event/pidio/play.mpd?id=6317&type=dash
 
 #EXTM3U
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CTV1
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", CTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2004,7 +2024,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CTV-1
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", CTV-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2012,7 +2032,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17938&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CTV2
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", CTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2020,7 +2040,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6686&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=6686&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CTV-2
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", CTV-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2028,7 +2048,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17939&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17939&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CTV3
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", CTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2036,7 +2056,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17939&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6786&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CTV-3
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", CTV-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2044,7 +2064,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CTV5
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", CTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2052,7 +2072,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CTV6
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", CTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2060,7 +2080,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", PL TV 
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", PL TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2068,7 +2088,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9353&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=9353&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL TV-1
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", EPL TV-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2076,7 +2096,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19375&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=19375&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL TV-2
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", EPL TV-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2084,7 +2104,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=19375&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=18796&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=18796&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EPL TV-3
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", EPL TV-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2092,7 +2112,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=18796&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=18797&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=18797&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", SPOTV
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2100,7 +2120,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=18797&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17139&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17139&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", SPOTV2
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2108,7 +2128,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17140&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17140&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", BEINS
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", BEINS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2116,7 +2136,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17140&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6299&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=6299&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", BEIN 1
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", BEIN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2124,7 +2144,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17884&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17884&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", BEIN 2
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", BEIN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2132,7 +2152,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17884&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17875&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=17875&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", BEIN 3
+#EXTINF:-1 group-title="CTV | SP-7" tvg-logo="", BEIN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2141,7 +2161,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17875&type=dash
 https://nextgenz.my.id/event/pidio/play.mpd?id=6317&type=dash
 
 #EXTM3U
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", Champions TV 1
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2149,7 +2169,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=6685&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=6685&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", Champions TV 1 Alt
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",Champions TV 1 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2157,7 +2177,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17938&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", Champions TV 2
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",Champions TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2165,7 +2185,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=6686&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=6686&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", Champions TV 2 Alt
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",Champions TV 2 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2173,7 +2193,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17939&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17939&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", Champions TV 3
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",Champions TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2181,7 +2201,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17939&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=6786&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", Champions TV 3 Alt
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",Champions TV 3 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2189,7 +2209,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=19404&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=19404&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", Champions TV 5
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2197,7 +2217,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=19404&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=9182&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", Champions TV 6
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",Champions TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2205,7 +2225,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=9183&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", PL TV
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",PL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2213,7 +2233,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=9353&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=9353&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", EPL TV-1
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",EPL TV-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2221,7 +2241,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=19375&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=19375&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", EPL TV-2
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",EPL TV-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2229,7 +2249,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=19375&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=18796&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=18796&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", EPL TV-3
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",EPL TV-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2237,7 +2257,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=18796&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=18797&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=18797&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", SPOTV
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2245,7 +2265,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=18797&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17139&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17139&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", SPOTV2
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2253,7 +2273,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17140&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17140&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", BEINS
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",BEINS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2261,7 +2281,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17140&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=6299&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=6299&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", BEIN 1
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",BEIN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2269,7 +2289,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17884&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17884&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", BEIN 2
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",BEIN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2277,7 +2297,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17884&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17875&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17875&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png", BEIN 3
+#EXTINF:-1 group-title="CTV | SP-8" tvg-logo="https://get.perfecttv.net/logo/champions5.png",BEIN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2286,7 +2306,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=17875&type=dash
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=6317&type=dash
 
 #EXTM3U
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", Champions TV 1
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2294,7 +2314,7 @@ https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6685&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6685&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", Champions TV 1 Alt
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",Champions TV 1 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2302,7 +2322,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17938&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17938&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", Champions TV 2
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",Champions TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2310,7 +2330,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6686&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6686&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", Champions TV 2 Alt
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",Champions TV 2 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2318,7 +2338,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17939&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17939&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", Champions TV 3
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",Champions TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2326,7 +2346,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17939&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6786&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", Champions TV 3 Alt
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",Champions TV 3 Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2334,7 +2354,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19404&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19404&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", Champions TV 5
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2342,7 +2362,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19404&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9182&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9182&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", Champions TV 6
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",Champions TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2350,7 +2370,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9183&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9183&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", PL TV
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",PL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2358,7 +2378,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9353&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9353&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", EPL TV-1
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",EPL TV-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2366,7 +2386,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19375&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19375&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", EPL TV-2
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",EPL TV-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2374,7 +2394,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19375&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18796&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18796&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", EPL TV-3
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",EPL TV-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2382,7 +2402,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18796&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18797&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18797&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", SPOTV
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2390,7 +2410,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18797&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17139&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17139&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", SPOTV2
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2398,7 +2418,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", BEINS
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",BEINS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2406,7 +2426,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6299&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6299&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", BEIN 1
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",BEIN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2414,7 +2434,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17884&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17884&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", BEIN 2
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",BEIN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2422,7 +2442,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17884&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17875&type=drm
 https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17875&type=dash
 
-#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png", BEIN 3
+#EXTINF:-1 group-title="CTV | SP-9" tvg-logo="https://get.perfecttv.net/logo/champions5.png",BEIN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2497,7 +2517,7 @@ https://nissa17.adptv.workers.dev/manifest.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=6317&type=drm
 https://nissa17.adptv.workers.dev/manifest.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-title="TESSV" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", BEIN 3
+#EXTINF:-1 group-title="TESSV" tvg-logo="", BEIN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -2505,7 +2525,7 @@ https://nissa17.adptv.workers.dev/manifest.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=6317&type=drm
 https://nissa17.adptv.workers.dev/manifest.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-title="TESSV" tvg-logo="https://get.perfecttv.net/logo/champions5.png", BEIN 3
+#EXTINF:-1 group-title="TESSV" tvg-logo="https://get.perfecttv.net/logo/champions5.png",BEIN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
