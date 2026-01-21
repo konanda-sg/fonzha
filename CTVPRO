@@ -214,6 +214,19 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=19542&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19543&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=19543&type=dash
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO PL 1
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34535
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO PL 2
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34534
+#EXTINF:-1 tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/811_300.png" group-title="ASTR026",Astro PL 1 HD
+http://xtv.ooo:8080/Faisalfb007/4328641/388697
+#EXTINF:-1 tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="ASTR026",Astro PL 2 HD
+http://xtv.ooo:8080/Faisalfb007/4328641/388698
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.openbinacle.com/openbinacle/tv/astro-supersport-3/image/astrosupersport3.jpg" group-title="ASTR026",Astro PL 3 HD
+http://xtv.ooo:8080/Faisalfb007/4328641/388699
+#EXTINF:-1 tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="ASTR026",Astro PL 4 HD
+http://xtv.ooo:8080/Faisalfb007/4328641/388700
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", SPOTV 1 (php)
 http://96.44.160.246:9999/smt.php?id=go_spotv 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", SPOTV 2 (php)
@@ -224,87 +237,75 @@ http://96.44.160.246:9999/smt.php?id=Astrobein1
 http://96.44.160.246:9999/smt.php?id=Astrobein2
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ASTR026", Astro Beinsports 3(php)
 http://96.44.160.246:9999/smt.php?id=Astrobein3
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="ASTR026",MY: ASTRO PREMIER LEAGUE (php)
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="ASTR026",ASTRO PL (php)
 http://96.44.160.246:9999/smt.php?id=Assp1
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="ASTR026",MY: ASTRO PREMIER LEAGUE 2 (php)
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="ASTR026",ASTRO PL 2 (php)
 http://96.44.160.246:9999/smt.php?id=Assp2
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="ASTR026",MY: ASTRO GRANDSTAND (php)
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="ASTR026",ASTRO GRANDSTAND (php)
 http://96.44.160.246:9999/smt.php?id=Assp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="ASTR026",MY: ASTRO FOOTBALL (php)
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="ASTR026",ASTRO FOOTBALL (php)
 http://96.44.160.246:9999/smt.php?id=Assp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="ASTR026",MY: ASTRO SPORT5 (php)
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="ASTR026",ASTRO SPORT5 (php)
 http://96.44.160.246:9999/smt.php?id=Assp5
-#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="ASTR026",MY: ASTRO BADMINTON 1 (php)
+#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="ASTR026",ASTRO BADMINTON 1 (php)
 http://96.44.160.246:9999/smt.php?id=go_badminton1
-#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="ASTR026",MY: ASTRO BADMINTON 2 (php)
+#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="ASTR026",ASTRO BADMINTON 2 (php)
 http://96.44.160.246:9999/smt.php?id=go_badminton2
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",MY: ASTRO FOOTBALL
-http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34531
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",MY: ASTRO GRANDSTAND
-http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34533
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",MY: ASTRO PREMIER LEAGUE 2
-http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34534
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",MY: ASTRO PREMIER LEAGUE 1
-http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34535
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ASTR026",Astro PremierLeague 1 (MLY)
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ASTR026",Astro PL 1 (MLY)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1163985.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ASTR026",Astro PremierLeague 2 (MLY)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ASTR026",Astro PL 2 (MLY)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1163986.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ASTR026",Arena Bola (MLY)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1163987.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", ASTRO ARENA BOLA 1
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1034247.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", ASTRO PREMIER LEAGUE 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", ASTRO PL 1 HD
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1159.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", ASTRO PREMIER LEAGUE 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", ASTRO PL 2 HD
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1158.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", ASTRO PREMIER LEAGUE 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", ASTRO PL 3 HD
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1157.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", ASTRO PREMIER LEAGUE 4 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", ASTRO PL 4 HD
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1160.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", ASTRO PREMIER LEAGUE 5 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", ASTRO PL 5 HD
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1229.m3u8
-#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTR026",SPORTS : ASTRO SUPERSPORT 1
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTR026",SPORTS : ASTRO PL 1
 http://mains.services/live/bshorty/Zv5le07a0J/908d1263-42e6-4d4d-becb-ff4c3f2a0e2d.ts
-#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTR026",SPORTS : ASTRO SUPERSPORT 2
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTR026",SPORTS : ASTRO PL 2
 http://mains.services/live/bshorty/Zv5le07a0J/789d04b3-af43-4185-a849-a4cbcd123660.ts
-#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTR026",SPORTS : ASTRO SUPERSPORT 3
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTR026",SPORTS : ASTRO PL 3
 http://mains.services/live/bshorty/Zv5le07a0J/a2688b68-2f5e-4891-a26f-a61d587aae17.ts
-#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTR026",SPORTS : ASTRO SUPERSPORT 4
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTR026",SPORTS : ASTRO PL 4
 http://mains.services/live/bshorty/Zv5le07a0J/402826aa-5119-4254-b520-13c53cb5fa4a.ts
-#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTR026",SPORTS : ASTRO SUPERSPORT 5
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTR026",SPORTS : ASTRO PL 5
 http://mains.services/live/bshorty/Zv5le07a0J/ffcdf3f0-7fe2-4dd7-9e20-e746c902ef74.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="ASTR026",EPL ASTRO PREMIER LEAGUE 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="ASTR026",EPL ASTRO PL 1
 https://shorter.me/rt1lO
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="ASTR026",EPL ASTRO PREMIER LEAGUE 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="ASTR026",EPL ASTRO PL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/156.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="ASTR026",EPL ASTRO PREMIER LEAGUE 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="ASTR026",EPL ASTRO PL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/157.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="ASTR026",EPL ASTRO PREMIER LEAGUE 158
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="ASTR026",EPL ASTRO PL 158
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/158.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="ASTR026",EPL ASTRO PREMIER LEAGUE 155
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="ASTR026",EPL ASTRO PL 155
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/811_300.png" group-title="ASTR026",My: Astro SuperSport 1 HD
-http://xtv.ooo:8080/Faisalfb007/4328641/388697
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASTR026",MY: Astro SuperSport 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASTR026",Astro PL 1
+http://xtv.ooo:8080/Faisalfb007/4328641/352087
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASTR026",Astro PL 2
 http://xtv.ooo:8080/Faisalfb007/4328641/352088
-#EXTINF:-1 tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="ASTR026",My: Astro SuperSport 2 HD
-http://xtv.ooo:8080/Faisalfb007/4328641/388698
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="ASTR026",MY: Astro SuperSport 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="ASTR026",Astro PL 3
 http://xtv.ooo:8080/Faisalfb007/4328641/352089
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.openbinacle.com/openbinacle/tv/astro-supersport-3/image/astrosupersport3.jpg" group-title="ASTR026",My: Astro SuperSport 3 HD
-http://xtv.ooo:8080/Faisalfb007/4328641/388699
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="ASTR026",MY: Astro SuperSport 4
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="ASTR026",Astro PL 4
 http://xtv.ooo:8080/Faisalfb007/4328641/352090
-#EXTINF:-1 tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="ASTR026",My: Astro SuperSport 4 HD
-http://xtv.ooo:8080/Faisalfb007/4328641/388700
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="ASTR026",MY: Astro SuperSport 5
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="ASTR026",Astro PL 5
 http://xtv.ooo:8080/Faisalfb007/4328641/352091
-#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/692/840/png-clipart-astro-supersport-television-logo-astro-malaysia-holdings-alfalfa-miscellaneous-purple.png" group-title="ASTR026",My: Astro SuperSport Plus HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/692/840/png-clipart-astro-supersport-television-logo-astro-malaysia-holdings-alfalfa-miscellaneous-purple.png" group-title="ASTR026",Astro SuperSport Plus HD
 http://xtv.ooo:8080/Faisalfb007/4328641/388701
 #EXTINF:0 tvg-id="ext" group-title="ASTR026",[UK] ASTRO SPORTS 1
 http://a9.lion.wine:80/live/Tony9100/QuEK1174/828098.ts
@@ -334,20 +335,53 @@ http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/34446.m3u8
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/4304.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026", BEIN SPORTS 3 HD
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/4303.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="ASTR026",MY: beIN Sports
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="ASTR026",beIN Sports
 http://xtv.ooo:8080/Faisalfb007/4328641/352096
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.millereponses.com/wp-content/uploads/2018/08/Frequence-Bein-Sport-News-HD.png" group-title="ASTR026",My: beIN Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.millereponses.com/wp-content/uploads/2018/08/Frequence-Bein-Sport-News-HD.png" group-title="ASTR026",beIN Sports 1 HD
 http://xtv.ooo:8080/Faisalfb007/4328641/388709
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="ASTR026",My: BeIN Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="ASTR026",BeIN Sports 2 HD
 http://xtv.ooo:8080/Faisalfb007/4328641/388710
-#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s92442_ll_h3_aa.png" group-title="ASTR026",My: BeIn Sports 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s92442_ll_h3_aa.png" group-title="ASTR026",BeIn Sports 3 HD
 http://xtv.ooo:8080/Faisalfb007/4328641/388711
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="ASTR026",My: BeIN Sports 4 HD
-http://xtv.ooo:8080/Faisalfb007/4328641/388712
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.spotv.net/images/intro/intro_logo.png" group-title="ASTR026",My: SPOTV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.spotv.net/images/intro/intro_logo.png" group-title="ASTR026",SPOTV 2
 http://xtv.ooo:8080/Faisalfb007/4328641/388703
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.kyungmin.ac.kr/DATA/board/640/16002360975161AA2TZ.jpg" group-title="ASTR026",My: SPOTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.kyungmin.ac.kr/DATA/board/640/16002360975161AA2TZ.jpg" group-title="ASTR026",SPOTV HD
 http://xtv.ooo:8080/Faisalfb007/4328641/388702
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/692/840/png-clipart-astro-supersport-television-logo-astro-malaysia-holdings-alfalfa-miscellaneous-purple.png" group-title="ASTR026",Astro SuperSport Plus HD
+http://xtv.ooo:8080/Faisalfb007/4328641/388701
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/692/840/png-clipart-astro-supersport-television-logo-astro-malaysia-holdings-alfalfa-miscellaneous-purple.png" group-title="ASTR026",Astro 04
+http://xtv.ooo:8080/Faisalfb007/4328641/388704
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/692/840/png-clipart-astro-supersport-television-logo-astro-malaysia-holdings-alfalfa-miscellaneous-purple.png" group-title="ASTR026",Astro 05
+http://xtv.ooo:8080/Faisalfb007/4328641/388705
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/692/840/png-clipart-astro-supersport-television-logo-astro-malaysia-holdings-alfalfa-miscellaneous-purple.png" group-title="ASTR026",Astro 06
+http://xtv.ooo:8080/Faisalfb007/4328641/388706
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/692/840/png-clipart-astro-supersport-television-logo-astro-malaysia-holdings-alfalfa-miscellaneous-purple.png" group-title="ASTR026",Astro 07
+http://xtv.ooo:8080/Faisalfb007/4328641/388707
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/692/840/png-clipart-astro-supersport-television-logo-astro-malaysia-holdings-alfalfa-miscellaneous-purple.png" group-title="ASTR026",Astro 08
+http://xtv.ooo:8080/Faisalfb007/4328641/388708
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 25
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34525
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 26
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34526
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 27
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34527
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 28
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34528
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 29
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34529
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 30
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34530
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO FOOTBALL
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34531
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 32
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34532
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO GRANDSTAND
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34533
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 34
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34534
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTR026",ASTRO 35
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34535
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_425_305" group-title="$HK | NOW SPORTS (VIP)",HK: NOW Sports 4K 1
 http://xtv.ooo:8080/Faisalfb007/4328641/381396
@@ -717,6 +751,85 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17875&type=dash
 https://parlay12.serv00.net/pidio/index.mpd?id=6317&type=dash
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CTV | ID-1",TRANS TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=733&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=733&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="CTV | ID-1",TRANS 7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=734&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=734&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="CTV | ID-1",SCTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=204&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=204&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="CTV | ID-1",INDOSIAR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=205&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="CTV | ID-1",RCTI
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=665&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=665&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="CTV | ID-1",MNC TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=870&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=870&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="CTV | ID-1",GTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=778&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=778&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="CTV | ID-1",METRO TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=777&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=777&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="CTV | ID-1",TV ONE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=783&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=783&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="CTV | ID-1",INEWS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=5409&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=5409&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="CTV | ID-1",ANTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=782&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=782&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="CTV | ID-1",MOJI TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=18797&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=18797&type=dash
+
+#EXTINF:-1 tvg-logo="" group-title="CTV | ID-1",TVONE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=6441&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=6441&type=dash
+
+#EXTM3U
 #EXTINF:-1 group-title="CTV | SP-2" tvg-logo="",CTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -860,6 +973,111 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=6317&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=6317&type=dash
+
+#EXTM3U
+#EXTINF:-1 group-title="CTV | ID-2" tvg-logo="",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=733&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=733&type=dash
+
+#EXTINF:-1 group-title="CTV | ID-2" tvg-logo="",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=734&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=734&type=dash
+
+#EXTINF:-1 group-title="CTV | ID-2" tvg-logo="",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=204&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=204&type=dash
+
+#EXTINF:-1 group-title="CTV | ID-2" tvg-logo="",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=205&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=205&type=dash
+
+#EXTINF:-1 group-title="CTV | ID-2" tvg-logo="",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=665&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=665&type=dash
+
+#EXTINF:-1 group-title="CTV | ID-2" tvg-logo="",MNC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=870&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=870&type=dash
+
+#EXTINF:-1 group-title="CTV | ID-2" tvg-logo="",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=778&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=778&type=dash
+
+#EXTINF:-1 group-title="CTV | ID-2" tvg-logo="",METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=777&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=777&type=dash
+
+#EXTINF:-1 group-title="CTV | ID-2" tvg-logo="",TV ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=783&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=783&type=dash
+
+#EXTINF:-1 group-title="CTV | ID-2" tvg-logo="",INEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=5409&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=5409&type=dash
+
+#EXTINF:-1 group-title="CTV | ID-2" tvg-logo="",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=782&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=782&type=dash
+
+#EXTINF:-1 group-title="CTV | ID-2" tvg-logo="",MOJI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=18797&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=18797&type=dash
+
+#EXTINF:-1 group-title="CTV | ID-2" tvg-logo="",TVONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=6441&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=6441&type=dash
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | SP-3",CAMPIONE TV 1 🟨
@@ -1103,6 +1321,172 @@ https://parlay12.serv00.net/pidio/index.mpd?id=18797&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=18739&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=18739&type=dash
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | ID-3",TRANSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=733&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=733&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | ID-3",TRANS 7 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=734&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=734&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | ID-3",RCTI 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=665&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=665&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | ID-3",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=205&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | ID-3",MNC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=870&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=870&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | ID-3",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=778&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=778&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | ID-3",METRO TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=777&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=777&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | ID-3",SCTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=204&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=204&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | ID-3",TV ONE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=6441&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=6441&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | ID-3",INEWS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=5409&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=5409&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | ID-3",TV ONE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=783&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=783&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | ID-3",ANTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=782&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=782&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | ID-3",KOMPAS TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=874&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=874&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | ID-3",MOJI TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=206&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=206&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="CTV | ID-3",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=1561&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=1561&type=dash
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CTV | SP-4", CTV 1
@@ -2128,27 +2512,3 @@ https://nissa17.adptv.workers.dev/manifest.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=6317&type=drm
 https://nissa17.adptv.workers.dev/manifest.mpd?id=6317&type=dash
-
-9353 PL
-19375 PL1
-18796 2
-18797 3
-
-6317 3
-17875 2
-17884 1
-6299 BEINSS
-
-17140 SPO2
-17139 SPO
-
-9183 CTV 6
-9182 5
-
-19404 3
-6786 3
-17939 2
-6686 2
-
-17938 1
-6685 1
