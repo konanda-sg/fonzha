@@ -1,0 +1,77 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="🇮🇩 LOKAL", CTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play?id=6786&type=drm
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=6786&type=dash
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/eeiIEY8.png?v=1.1.1.1" group-title="🇮🇩 LOKAL" tvg-id="Indosiar" tvg-name="Indosiar",CTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6686&type=drm
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=6686&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zp9phmPEu8payPGM0WL3Mq16XO0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="🇮🇩 LOKAL",CTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=drm
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=6685&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="🇮🇩 LOKAL", CTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play?id=17938&type=drm
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=17938&type=dash
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/eeiIEY8.png?v=1.1.1.1" group-title="🇮🇩 LOKAL" tvg-id="Indosiar" tvg-name="Indosiar",CTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17939&type=drm
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=17939&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zp9phmPEu8payPGM0WL3Mq16XO0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="🇮🇩 LOKAL",CTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=drm
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19404&type=dash
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/eeiIEY8.png?v=1.1.1.1" group-title="🇮🇩 LOKAL" tvg-id="Indosiar" tvg-name="Indosiar",CTV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=drm
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=9182&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zp9phmPEu8payPGM0WL3Mq16XO0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="🇮🇩 LOKAL",CTV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=drm
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=9183&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="🇮🇩 LOKAL", CTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play?id=17938&type=drm
+https://wumbodumbo.serv00.net/red/play?id=17938&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="🇮🇩 LOKAL", CTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play?id=17939&type=drm
+https://wumbodumbo.serv00.net/red/play?id=17939&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="🇮🇩 LOKAL", CTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play?id=6685&type=drm
+https://wumbodumbo.serv00.net/red/play?id=6685&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="🇮🇩 LOKAL", CTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play?id=6686&type=drm
+https://wumbodumbo.serv00.net/red/play?id=6686&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="🇮🇩 LOKAL", CTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play?id=6786&type=drm
+https://wumbodumbo.serv00.net/red/play?id=6786&type=dash
