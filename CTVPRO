@@ -1,77 +1,109 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="🇮🇩TRANS-VDO",TRANS TV
+#EXTINF:-1 tvg-logo="" group-title="🇮🇩TRANSMEDIA",1. TRANS TV NG
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="🇮🇩TRANS-VDO",TRANS 7
+#EXTINF:-1 tvg-logo="" group-title="🇮🇩TRANSMEDIA",2. TRANS 7 NG
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=733&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
+#EXTINF:-1 group-logo="" group-title="🇮🇩TRANSMEDIA" tvg-logo="",3. TRANS TV ARC✅
+https://archertv.my.id/atraksi/vidx.mpd?id=733&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=734&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
+#EXTINF:-1 group-logo="" group-title="🇮🇩TRANSMEDIA" tvg-logo="",4.TRANS 7 ARC✅
+https://archertv.my.id/atraksi/vidx.mpd?id=734&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
+
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sky_sports_preme.png" group-title="🇮🇩TRANS-VDO", TRANSTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sky_sports_preme.png" group-title="🇮🇩TRANSMEDIA", 5. TRANS TV TRV✅
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sky_sports_preme.png" group-title="🇮🇩TRANS-VDO", TRANS TV
-https://viiip.kitashinsaku.com:443/10rb.vip///kontol0/a4/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sky_sports_preme.png" group-title="🇮🇩TRANS-VDO", TRANS 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sky_sports_preme.png" group-title="🇮🇩TRANSMEDIA", 6. TRANS 7 TRV✅
 https://cdnjkt913.transvision.co.id/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sky_sports_preme.png" group-title="🇮🇩TRANS-VDO", TRANS7
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sky_sports_preme.png" group-title="🇮🇩TRANSMEDIA",7. TRANS TV TR✅
+https://viiip.kitashinsaku.com:443/10rb.vip///kontol0/a4/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sky_sports_preme.png" group-title="🇮🇩TRANSMEDIA",8. TRANS 7 TR✅
 https://viiip.kitashinsaku.com:443/10rb.vip///kontol0/a4/master/5/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/1z5pJol.png?v=1.1.1.1" group-title="🇮🇩TRANS-VDO" tvg-id="Trans 7" tvg-name="Trans 7", Trans7 Alt
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/1z5pJol.png?v=1.1.1.1" group-title="🇮🇩TRANSMEDIA" tvg-id="Trans 7" tvg-name="Trans 7", 9. TRANS 7 INDI✅
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c59d66dbf59245e9b14cb47862c456b7:247bb0f6d1c9d64f589d8b2f8e631a53
 https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/lQMICXV.png?v=1.0.0.1" group-title="🇮🇩TRANS-VDO" tvg-id="Trans TV" tvg-name="Trans TV", TransTV Alt
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/lQMICXV.png?v=1.0.0.1" group-title="🇮🇩TRANSMEDIA" tvg-id="Trans TV" tvg-name="Trans TV", 10. TRANS TV INDI✅
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=685d124959a94f89872760636a868956:5cda423e983403ee02b24ac8643470ee
 https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontcons/us_sky_sports_preme.png" group-title="🇮🇩VDO", TRANS TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontcons/us_sky_sports_preme.png" group-title="🇮🇩TRANSMEDS", 1. TRANS TV ✅
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=dash
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontcons/us_sky_sports_preme.png" group-title="🇮🇩VDO", TRANS 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontcons/us_sky_sports_preme.png" group-title="🇮🇩TRANSMEDS", 2. TRANS 7 ✅
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="🇮🇩VDO",ID: Trans 7
-http://xtv.ooo:8080/Faisalfb007/4328641/351040
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="🇮🇩VDO",ID: Trans TV
-http://xtv.ooo:8080/Faisalfb007/4328641/351041
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontcons/us_sky_sports_preme.png" group-title="🇮🇩TRANSMEDS",3. TRANS TV ng✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=dash
 
-#EXTINF:-1 tvg-logo="" group-title="🇮🇩TRANS-VDO" tvg-id="transtv" tvg-name="transtv", TRANS TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontcons/us_sky_sports_preme.png" group-title="🇮🇩TRANSMEDS",4. TRANS 7 ng✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="🇮🇩TRANSMEDS",5.Trans TV✅
+http://xtv.ooo:8080/Faisalfb007/4328641/351041
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="🇮🇩TRANSMEDS",6.Trans 7✅
+http://xtv.ooo:8080/Faisalfb007/4328641/351040
+
+#EXTINF:-1 group-logo="" group-title="🇮🇩TRANSMEDS" tvg-logo="", 7. TRANS TV ARC✅
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=733&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
+https://archertv.my.id/atraksi/vidx.mpd?id=733&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
+
+#EXTINF:-1 group-logo="" group-title="🇮🇩TRANSMEDS" tvg-logo="", 8. TRANS 7 ARC✅
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=734&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
+https://archertv.my.id/atraksi/vidx.mpd?id=734&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
+
+#EXTINF:-1 tvg-logo="" group-title="🇮🇩TRANSMEDS" tvg-id="transtv" tvg-name="transtv", TRANS TV ❌
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=733&type=hls
-#EXTINF:-1 tvg-logo="" group-title="🇮🇩TRANS-VDO" tvg-id="trans7" tvg-name="trans7", TRANS 7
+#EXTINF:-1 tvg-logo="" group-title="🇮🇩TRANSMEDS" tvg-id="trans7" tvg-name="trans7", TRANS 7 ❌
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=734&type=hls
 
@@ -334,66 +366,6 @@ https://archertv.my.id/atraksi/vidx.mpd?id=9182&type=dash&token=mXepU5VJFAmemNjb
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=9183&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
 #EXTINF:-1 group-logo="" group-title="VID-ARC" tvg-logo="", CTV 6
 https://archertv.my.id/atraksi/vidx.mpd?id=9183&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=733&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-#EXTINF:-1 group-logo="" group-title="VID-ARC" tvg-logo="", TRANSTV
-https://archertv.my.id/atraksi/vidx.mpd?id=733&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=734&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-#EXTINF:-1 group-logo="" group-title="VID-ARC" tvg-logo="", TRANS7
-https://archertv.my.id/atraksi/vidx.mpd?id=734&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=6685&type=drm
-#EXTINF:-1 group-logo="" group-title="VID-ARC" tvg-logo="", CTV 1
-https://archertv.my.id/atraksi/vidx.mpd?id=6685&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=6686&type=drm
-#EXTINF:-1 group-logo="" group-title="VID-ARC" tvg-logo="", CTV 2
-https://archertv.my.id/atraksi/vidx.mpd?id=6686&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=6786&type=drm
-#EXTINF:-1 group-logo="" group-title="VID-ARC" tvg-logo="", CTV 3
-https://archertv.my.id/atraksi/vidx.mpd?id=6786&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=17938&type=drm
-#EXTINF:-1 group-logo="" group-title="VID-ARC" tvg-logo="", CTV 1a
-https://archertv.my.id/atraksi/vidx.mpd?id=17938&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=17939&type=drm
-#EXTINF:-1 group-logo="" group-title="VID-ARC" tvg-logo="", CTV 2a
-https://archertv.my.id/atraksi/vidx.mpd?id=17939&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19404&type=drm
-#EXTINF:-1 group-logo="" group-title="VID-ARC" tvg-logo="", CTV 3a
-https://archertv.my.id/atraksi/vidx.mpd?id=19404&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=9182&type=drm
-#EXTINF:-1 group-logo="" group-title="VID-ARC" tvg-logo="", CTV 5
-https://archertv.my.id/atraksi/vidx.mpd?id=9182&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=9183&type=drm
-#EXTINF:-1 group-logo="" group-title="VID-ARC" tvg-logo="", CTV 6
-https://archertv.my.id/atraksi/vidx.mpd?id=9183&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=733&type=drm
-#EXTINF:-1 group-logo="" group-title="VID-ARC" tvg-logo="", TRANSTV
-https://archertv.my.id/atraksi/vidx.mpd?id=733&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=734&type=drm
-#EXTINF:-1 group-logo="" group-title="VID-ARC" tvg-logo="", TRANSTV
-https://archertv.my.id/atraksi/vidx.mpd?id=734&type=dash
 
 #EXTM3U
 #EXTINF:-1 group-title="VID-MS"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", CTV 1 B
