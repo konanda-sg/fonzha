@@ -1,31 +1,3 @@
-<!DOCTYPE>
-	
-<html>
-<head>
-<link rel="icon" type="image/png" href="">
-<script type="text/javascript">
-window.location = "https://saweria.co/SpyBer2"
-</script>
-</head>
-</html>
-
-<noscript>
-
-@ottnav
-
-#EXTM3U billed-msg="PL INI GRATIS(SpyBer)..MOHON Jangan diSalahGunakan YA"
-
-
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Jonjoni123/logo/refs/heads/main/ispy.jpg" group-title="2026",INFO UP
-https://dl.dropboxusercontent.com/scl/fi/gkt2yk7479aatju3qiqmg/update.m3u8?rlkey=69mnry07kpms20uftxt0bmeyu&dl=0
-
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Jonjoni123/logo/refs/heads/main/ispy.jpg" group-title="2026",ADU AYAM hd
-http://49.0.64.96:8007/HiSports
-
-
-
 
 
 #EXTINF:-1 tvg-id="PilipinasLive1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s" group-title="PH LIVE",Pilipinas Live 1
@@ -3337,4 +3309,3 @@ https://dl.dropboxusercontent.com/scl/fi/hhevgde5jvg66280w8cmo/asspplus.m3u8?rlk
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title=" SPORTS (ASTRO GO)",Astro Grandstand
 https://dl.dropboxusercontent.com/scl/fi/w3jo081tmwfa13a7v57sp/asspgrand.m3u8?rlkey=tlfwevxk1un8okrf6whrlantx&dl=0
-
